@@ -1,0 +1,10 @@
+streamlit==1.67.0
+openai==3.48.0
+python-dotenv==1.2.2
+pydantic==2.13.4
+plotly==7.1.0
+pandas==2.2.3
+requests==2.34.2
+streamlit-searchbox==0.1.24
+supabase==2.34.1
+beautifulsoup4==4.15.0

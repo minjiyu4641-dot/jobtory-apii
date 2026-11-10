@@ -1,0 +1,7 @@
+Jobtory v5.0 · OpenDART API
+
+1. python -m pip install -r requirements.txt
+2. .env 또는 Streamlit Secrets에 DART_API_KEY / OPENAI_API_KEY 설정
+3. python -m streamlit run app.py
+
+자세한 적용 방법은 README_API.md를 읽어 주세요.
