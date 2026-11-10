@@ -1,0 +1,121 @@
+{
+  "corp_code": "00229021",
+  "corp_name": "(주)인성정보",
+  "industry_code": null,
+  "fs_div": "CFS",
+  "report_code": "11011",
+  "currency": "KRW",
+  "amount_unit": "KRW",
+  "financials": {
+    "2021": {
+      "fiscal_year": 2021,
+      "period_start": "2021-01-01",
+      "period_end": "2021-12-31",
+      "statement": {
+        "total_assets": 191903735673,
+        "total_liabilities": 117495936812,
+        "total_equity": 74407798861,
+        "current_assets": 158392185437,
+        "current_liabilities": 99467927304,
+        "revenue": 258308330450,
+        "operating_income": 1987821577,
+        "net_income": 765850392,
+        "operating_cash_flow": -4349232453,
+        "property_plant_equipment": 12917350666,
+        "investing_cash_flow": 2937948167,
+        "financing_cash_flow": -5397291306,
+        "issued_capital": 19607690000,
+        "equity_attributable_to_owners": 72623311697,
+        "noncontrolling_interests": 1784487164
+      }
+    },
+    "2022": {
+      "fiscal_year": 2022,
+      "period_start": "2022-01-01",
+      "period_end": "2022-12-31",
+      "statement": {
+        "total_assets": 232476505495,
+        "total_liabilities": 156038691059,
+        "total_equity": 76437814436,
+        "current_assets": 199424454846,
+        "current_liabilities": 142317455241,
+        "revenue": 314506299406,
+        "operating_income": 2910287935,
+        "net_income": 854652562,
+        "operating_cash_flow": -28364887775,
+        "property_plant_equipment": 10995089017,
+        "investing_cash_flow": -340996800,
+        "financing_cash_flow": 17503416242,
+        "issued_capital": 19607690000,
+        "equity_attributable_to_owners": 74150524073,
+        "noncontrolling_interests": 2287290363
+      }
+    },
+    "2023": {
+      "fiscal_year": 2023,
+      "period_start": "2023-01-01",
+      "period_end": "2023-12-31",
+      "statement": {
+        "total_assets": 240073993474,
+        "total_liabilities": 164212643862,
+        "total_equity": 75861349612,
+        "current_assets": 204172573168,
+        "current_liabilities": 128126041920,
+        "revenue": 365240558331,
+        "operating_income": 5213314477,
+        "net_income": -807384630,
+        "operating_cash_flow": -8335223787,
+        "property_plant_equipment": 11574317839,
+        "investing_cash_flow": -6041615480,
+        "financing_cash_flow": 14910904970,
+        "issued_capital": 19607690000,
+        "equity_attributable_to_owners": 73209552096,
+        "noncontrolling_interests": 2651797516
+      }
+    },
+    "2024": {
+      "fiscal_year": 2024,
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "statement": {
+        "total_assets": 232037879542,
+        "total_liabilities": 143002358063,
+        "total_equity": 89035521479,
+        "current_assets": 195488242610,
+        "current_liabilities": 111461952572,
+        "revenue": 359586930378,
+        "operating_income": -4745951116,
+        "net_income": -9407606826,
+        "operating_cash_flow": 15222593092,
+        "property_plant_equipment": 10175239727,
+        "investing_cash_flow": 589850842,
+        "financing_cash_flow": 2753637824,
+        "issued_capital": 25257690000,
+        "equity_attributable_to_owners": 87993629674,
+        "noncontrolling_interests": 1041891805
+      }
+    },
+    "2025": {
+      "fiscal_year": 2025,
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "statement": {
+        "total_assets": 227467381318,
+        "total_liabilities": 139244683144,
+        "total_equity": 88222698174,
+        "current_assets": 191249099766,
+        "current_liabilities": 128169385870,
+        "revenue": 342737745051,
+        "operating_income": -4277168410,
+        "net_income": -5110969690,
+        "operating_cash_flow": 21387631461,
+        "property_plant_equipment": 8123004940,
+        "investing_cash_flow": 1844797316,
+        "financing_cash_flow": -11694716149,
+        "issued_capital": 25257690000,
+        "equity_attributable_to_owners": 87103047352,
+        "noncontrolling_interests": 1119650822
+      }
+    }
+  }
+}

@@ -1,0 +1,2195 @@
+{
+  "schema_version": "quant-report/1.2",
+  "generated_at": "2026-11-06T09:58:04",
+  "company": {
+    "corp_code": "01014055",
+    "corp_name": "에스트래픽 주식회사",
+    "stock_code": "234300",
+    "industry_code": "J62"
+  },
+  "basis": {
+    "fs_div": "CFS",
+    "report_code": "11011",
+    "currency": "KRW",
+    "settlement_month": 12
+  },
+  "sources": {
+    "2021": {
+      "status": "available",
+      "rcept_no": "20220321000504"
+    },
+    "2022": {
+      "status": "available",
+      "rcept_no": "20230320000493"
+    },
+    "2023": {
+      "status": "available",
+      "rcept_no": "20240318000276"
+    },
+    "2024": {
+      "status": "available",
+      "rcept_no": "20250410002177"
+    },
+    "2025": {
+      "status": "available",
+      "rcept_no": "20260316001065"
+    }
+  },
+  "data_quality": {
+    "consistency_checks": [
+      {
+        "field": "revenue",
+        "year": "2021",
+        "original_value": 137398697302,
+        "restated_value": 127607609513,
+        "reported_in": "2022",
+        "difference": -9791087789,
+        "difference_pct": -7.13
+      },
+      {
+        "field": "operating_income",
+        "year": "2021",
+        "original_value": 1343808208,
+        "restated_value": 3650412655,
+        "reported_in": "2022",
+        "difference": 2306604447,
+        "difference_pct": 171.65
+      }
+    ],
+    "collected_at": "2026-11-06T09:58:04"
+  },
+  "financials": {
+    "2021": {
+      "fiscal_year": 2021,
+      "period_start": "2021-01-01",
+      "period_end": "2021-12-31",
+      "statement": {
+        "total_assets": 137676090154,
+        "total_liabilities": 102638738991,
+        "total_equity": 35037351163,
+        "current_assets": 94711120963,
+        "current_liabilities": 67613071126,
+        "revenue": 137398697302,
+        "operating_income": 1343808208,
+        "net_income": -8581832381,
+        "operating_cash_flow": -6089870645,
+        "property_plant_equipment": 17750547313,
+        "investing_cash_flow": -6974001821,
+        "financing_cash_flow": 21860064668,
+        "issued_capital": 12974431000,
+        "equity_attributable_to_owners": 31376239914,
+        "noncontrolling_interests": 3661111249
+      }
+    },
+    "2022": {
+      "fiscal_year": 2022,
+      "period_start": "2022-01-01",
+      "period_end": "2022-12-31",
+      "statement": {
+        "total_assets": 178967516813,
+        "total_liabilities": 110476617901,
+        "total_equity": 68490898912,
+        "current_assets": 126028877376,
+        "current_liabilities": 88798267669,
+        "revenue": 132069703100,
+        "operating_income": 9595456107,
+        "net_income": 32385358855,
+        "operating_cash_flow": 5316233049,
+        "property_plant_equipment": 12903557204,
+        "investing_cash_flow": -4328547890,
+        "financing_cash_flow": -13723294769,
+        "issued_capital": 13066966000,
+        "equity_attributable_to_owners": 64576909259,
+        "noncontrolling_interests": 3913989653
+      }
+    },
+    "2023": {
+      "fiscal_year": 2023,
+      "period_start": "2023-01-01",
+      "period_end": "2023-12-31",
+      "statement": {
+        "total_assets": 186565293901,
+        "total_liabilities": 92325391783,
+        "total_equity": 94239902118,
+        "current_assets": 114046524924,
+        "current_liabilities": 74204626722,
+        "revenue": 147172546236,
+        "operating_income": 17379683944,
+        "net_income": 16699535561,
+        "operating_cash_flow": 373758462,
+        "property_plant_equipment": 32853329806,
+        "investing_cash_flow": 1609163774,
+        "financing_cash_flow": -1900219799,
+        "issued_capital": 13766121000,
+        "equity_attributable_to_owners": 93870252892,
+        "noncontrolling_interests": 369649226
+      }
+    },
+    "2024": {
+      "fiscal_year": 2024,
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "statement": {
+        "total_assets": 189395819777,
+        "total_liabilities": 90933776898,
+        "total_equity": 98462042879,
+        "current_assets": 113358831886,
+        "current_liabilities": 74573695525,
+        "revenue": 189044828063,
+        "operating_income": 11312230078,
+        "net_income": 5966862224,
+        "operating_cash_flow": 14189933994,
+        "property_plant_equipment": 41475543565,
+        "investing_cash_flow": -6269471499,
+        "financing_cash_flow": -2704409582,
+        "issued_capital": 13904924000,
+        "equity_attributable_to_owners": 98106608138,
+        "noncontrolling_interests": 355434741
+      }
+    },
+    "2025": {
+      "fiscal_year": 2025,
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "statement": {
+        "total_assets": 172855230596,
+        "total_liabilities": 70616576429,
+        "total_equity": 102238654167,
+        "current_assets": 83768405617,
+        "current_liabilities": 65508705529,
+        "revenue": 168238551225,
+        "operating_income": 8956631429,
+        "net_income": 4946488369,
+        "operating_cash_flow": 4041799401,
+        "property_plant_equipment": 43379007157,
+        "investing_cash_flow": -7338936008,
+        "financing_cash_flow": -1285023947,
+        "issued_capital": 13904924000,
+        "equity_attributable_to_owners": 101824992189,
+        "noncontrolling_interests": 413661978
+      }
+    }
+  },
+  "ratios": {
+    "corp_code": "01014055",
+    "corp_name": "에스트래픽 주식회사",
+    "fs_div": "CFS",
+    "years": {
+      "2021": {
+        "period_start": "2021-01-01",
+        "period_end": "2021-12-31",
+        "ratios": {
+          "debt_ratio": {
+            "value": 292.94,
+            "reason": null,
+            "label": "부채비율",
+            "unit": "%"
+          },
+          "current_ratio": {
+            "value": 140.08,
+            "reason": null,
+            "label": "유동비율",
+            "unit": "%"
+          },
+          "equity_ratio": {
+            "value": 25.45,
+            "reason": null,
+            "label": "자기자본비율",
+            "unit": "%"
+          },
+          "operating_margin": {
+            "value": 0.98,
+            "reason": null,
+            "label": "영업이익률",
+            "unit": "%"
+          },
+          "net_margin": {
+            "value": -6.25,
+            "reason": null,
+            "label": "순이익률",
+            "unit": "%"
+          },
+          "roa": {
+            "value": null,
+            "reason": "필수 재무항목 누락",
+            "label": "총자산순이익률(ROA)",
+            "unit": "%"
+          },
+          "operating_cash_flow": {
+            "value": -6089870645,
+            "reason": null,
+            "label": "영업활동현금흐름",
+            "unit": "KRW"
+          },
+          "cash_flow_to_debt": {
+            "value": -5.93,
+            "reason": null,
+            "label": "부채 대비 영업현금 창출력",
+            "unit": "%"
+          },
+          "investing_cash_flow": {
+            "value": -6974001821,
+            "reason": null,
+            "label": "투자활동현금흐름",
+            "unit": "KRW"
+          },
+          "financing_cash_flow": {
+            "value": 21860064668,
+            "reason": null,
+            "label": "재무활동현금흐름",
+            "unit": "KRW"
+          },
+          "revenue_growth": {
+            "value": null,
+            "reason": "매출액: 당기 또는 전기 금액 누락",
+            "change_type": "unknown",
+            "label": "매출액 증가율",
+            "unit": "%"
+          },
+          "operating_income_growth": {
+            "value": null,
+            "reason": "영업이익: 당기 또는 전기 금액 누락",
+            "change_type": "unknown",
+            "label": "영업이익 증가율",
+            "unit": "%"
+          },
+          "total_asset_growth": {
+            "value": null,
+            "reason": "총자산: 당기 또는 전기 금액 누락",
+            "change_type": "unknown",
+            "label": "총자산증가율",
+            "unit": "%"
+          },
+          "ppe_growth": {
+            "value": null,
+            "reason": "유형자산: 당기 또는 전기 금액 누락",
+            "change_type": "unknown",
+            "label": "유형자산증가율",
+            "unit": "%"
+          },
+          "capital_impairment_ratio": {
+            "value": 0.0,
+            "raw_value": -141.83,
+            "reason": null,
+            "basis": "owners_equity",
+            "issued_capital": 12974431000,
+            "parent_equity": 31376239914,
+            "label": "자본잠식률",
+            "unit": "%"
+          }
+        }
+      },
+      "2022": {
+        "period_start": "2022-01-01",
+        "period_end": "2022-12-31",
+        "ratios": {
+          "debt_ratio": {
+            "value": 161.3,
+            "reason": null,
+            "label": "부채비율",
+            "unit": "%"
+          },
+          "current_ratio": {
+            "value": 141.93,
+            "reason": null,
+            "label": "유동비율",
+            "unit": "%"
+          },
+          "equity_ratio": {
+            "value": 38.27,
+            "reason": null,
+            "label": "자기자본비율",
+            "unit": "%"
+          },
+          "operating_margin": {
+            "value": 7.27,
+            "reason": null,
+            "label": "영업이익률",
+            "unit": "%"
+          },
+          "net_margin": {
+            "value": 24.52,
+            "reason": null,
+            "label": "순이익률",
+            "unit": "%"
+          },
+          "roa": {
+            "value": 20.46,
+            "reason": null,
+            "label": "총자산순이익률(ROA)",
+            "unit": "%"
+          },
+          "operating_cash_flow": {
+            "value": 5316233049,
+            "reason": null,
+            "label": "영업활동현금흐름",
+            "unit": "KRW"
+          },
+          "cash_flow_to_debt": {
+            "value": 4.81,
+            "reason": null,
+            "label": "부채 대비 영업현금 창출력",
+            "unit": "%"
+          },
+          "investing_cash_flow": {
+            "value": -4328547890,
+            "reason": null,
+            "label": "투자활동현금흐름",
+            "unit": "KRW"
+          },
+          "financing_cash_flow": {
+            "value": -13723294769,
+            "reason": null,
+            "label": "재무활동현금흐름",
+            "unit": "KRW"
+          },
+          "revenue_growth": {
+            "value": -3.88,
+            "reason": null,
+            "change_type": "normal",
+            "label": "매출액 증가율",
+            "unit": "%"
+          },
+          "operating_income_growth": {
+            "value": 614.05,
+            "reason": null,
+            "change_type": "normal",
+            "label": "영업이익 증가율",
+            "unit": "%"
+          },
+          "total_asset_growth": {
+            "value": 29.99,
+            "reason": null,
+            "change_type": "normal",
+            "label": "총자산증가율",
+            "unit": "%"
+          },
+          "ppe_growth": {
+            "value": -27.31,
+            "reason": null,
+            "change_type": "normal",
+            "label": "유형자산증가율",
+            "unit": "%"
+          },
+          "capital_impairment_ratio": {
+            "value": 0.0,
+            "raw_value": -394.2,
+            "reason": null,
+            "basis": "owners_equity",
+            "issued_capital": 13066966000,
+            "parent_equity": 64576909259,
+            "label": "자본잠식률",
+            "unit": "%"
+          }
+        }
+      },
+      "2023": {
+        "period_start": "2023-01-01",
+        "period_end": "2023-12-31",
+        "ratios": {
+          "debt_ratio": {
+            "value": 97.97,
+            "reason": null,
+            "label": "부채비율",
+            "unit": "%"
+          },
+          "current_ratio": {
+            "value": 153.69,
+            "reason": null,
+            "label": "유동비율",
+            "unit": "%"
+          },
+          "equity_ratio": {
+            "value": 50.51,
+            "reason": null,
+            "label": "자기자본비율",
+            "unit": "%"
+          },
+          "operating_margin": {
+            "value": 11.81,
+            "reason": null,
+            "label": "영업이익률",
+            "unit": "%"
+          },
+          "net_margin": {
+            "value": 11.35,
+            "reason": null,
+            "label": "순이익률",
+            "unit": "%"
+          },
+          "roa": {
+            "value": 9.14,
+            "reason": null,
+            "label": "총자산순이익률(ROA)",
+            "unit": "%"
+          },
+          "operating_cash_flow": {
+            "value": 373758462,
+            "reason": null,
+            "label": "영업활동현금흐름",
+            "unit": "KRW"
+          },
+          "cash_flow_to_debt": {
+            "value": 0.4,
+            "reason": null,
+            "label": "부채 대비 영업현금 창출력",
+            "unit": "%"
+          },
+          "investing_cash_flow": {
+            "value": 1609163774,
+            "reason": null,
+            "label": "투자활동현금흐름",
+            "unit": "KRW"
+          },
+          "financing_cash_flow": {
+            "value": -1900219799,
+            "reason": null,
+            "label": "재무활동현금흐름",
+            "unit": "KRW"
+          },
+          "revenue_growth": {
+            "value": 11.44,
+            "reason": null,
+            "change_type": "normal",
+            "label": "매출액 증가율",
+            "unit": "%"
+          },
+          "operating_income_growth": {
+            "value": 81.12,
+            "reason": null,
+            "change_type": "normal",
+            "label": "영업이익 증가율",
+            "unit": "%"
+          },
+          "total_asset_growth": {
+            "value": 4.25,
+            "reason": null,
+            "change_type": "normal",
+            "label": "총자산증가율",
+            "unit": "%"
+          },
+          "ppe_growth": {
+            "value": 154.61,
+            "reason": null,
+            "change_type": "normal",
+            "label": "유형자산증가율",
+            "unit": "%"
+          },
+          "capital_impairment_ratio": {
+            "value": 0.0,
+            "raw_value": -581.89,
+            "reason": null,
+            "basis": "owners_equity",
+            "issued_capital": 13766121000,
+            "parent_equity": 93870252892,
+            "label": "자본잠식률",
+            "unit": "%"
+          }
+        }
+      },
+      "2024": {
+        "period_start": "2024-01-01",
+        "period_end": "2024-12-31",
+        "ratios": {
+          "debt_ratio": {
+            "value": 92.35,
+            "reason": null,
+            "label": "부채비율",
+            "unit": "%"
+          },
+          "current_ratio": {
+            "value": 152.01,
+            "reason": null,
+            "label": "유동비율",
+            "unit": "%"
+          },
+          "equity_ratio": {
+            "value": 51.99,
+            "reason": null,
+            "label": "자기자본비율",
+            "unit": "%"
+          },
+          "operating_margin": {
+            "value": 5.98,
+            "reason": null,
+            "label": "영업이익률",
+            "unit": "%"
+          },
+          "net_margin": {
+            "value": 3.16,
+            "reason": null,
+            "label": "순이익률",
+            "unit": "%"
+          },
+          "roa": {
+            "value": 3.17,
+            "reason": null,
+            "label": "총자산순이익률(ROA)",
+            "unit": "%"
+          },
+          "operating_cash_flow": {
+            "value": 14189933994,
+            "reason": null,
+            "label": "영업활동현금흐름",
+            "unit": "KRW"
+          },
+          "cash_flow_to_debt": {
+            "value": 15.6,
+            "reason": null,
+            "label": "부채 대비 영업현금 창출력",
+            "unit": "%"
+          },
+          "investing_cash_flow": {
+            "value": -6269471499,
+            "reason": null,
+            "label": "투자활동현금흐름",
+            "unit": "KRW"
+          },
+          "financing_cash_flow": {
+            "value": -2704409582,
+            "reason": null,
+            "label": "재무활동현금흐름",
+            "unit": "KRW"
+          },
+          "revenue_growth": {
+            "value": 28.45,
+            "reason": null,
+            "change_type": "normal",
+            "label": "매출액 증가율",
+            "unit": "%"
+          },
+          "operating_income_growth": {
+            "value": -34.91,
+            "reason": null,
+            "change_type": "normal",
+            "label": "영업이익 증가율",
+            "unit": "%"
+          },
+          "total_asset_growth": {
+            "value": 1.52,
+            "reason": null,
+            "change_type": "normal",
+            "label": "총자산증가율",
+            "unit": "%"
+          },
+          "ppe_growth": {
+            "value": 26.24,
+            "reason": null,
+            "change_type": "normal",
+            "label": "유형자산증가율",
+            "unit": "%"
+          },
+          "capital_impairment_ratio": {
+            "value": 0.0,
+            "raw_value": -605.55,
+            "reason": null,
+            "basis": "owners_equity",
+            "issued_capital": 13904924000,
+            "parent_equity": 98106608138,
+            "label": "자본잠식률",
+            "unit": "%"
+          }
+        }
+      },
+      "2025": {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "ratios": {
+          "debt_ratio": {
+            "value": 69.07,
+            "reason": null,
+            "label": "부채비율",
+            "unit": "%"
+          },
+          "current_ratio": {
+            "value": 127.87,
+            "reason": null,
+            "label": "유동비율",
+            "unit": "%"
+          },
+          "equity_ratio": {
+            "value": 59.15,
+            "reason": null,
+            "label": "자기자본비율",
+            "unit": "%"
+          },
+          "operating_margin": {
+            "value": 5.32,
+            "reason": null,
+            "label": "영업이익률",
+            "unit": "%"
+          },
+          "net_margin": {
+            "value": 2.94,
+            "reason": null,
+            "label": "순이익률",
+            "unit": "%"
+          },
+          "roa": {
+            "value": 2.73,
+            "reason": null,
+            "label": "총자산순이익률(ROA)",
+            "unit": "%"
+          },
+          "operating_cash_flow": {
+            "value": 4041799401,
+            "reason": null,
+            "label": "영업활동현금흐름",
+            "unit": "KRW"
+          },
+          "cash_flow_to_debt": {
+            "value": 5.72,
+            "reason": null,
+            "label": "부채 대비 영업현금 창출력",
+            "unit": "%"
+          },
+          "investing_cash_flow": {
+            "value": -7338936008,
+            "reason": null,
+            "label": "투자활동현금흐름",
+            "unit": "KRW"
+          },
+          "financing_cash_flow": {
+            "value": -1285023947,
+            "reason": null,
+            "label": "재무활동현금흐름",
+            "unit": "KRW"
+          },
+          "revenue_growth": {
+            "value": -11.01,
+            "reason": null,
+            "change_type": "normal",
+            "label": "매출액 증가율",
+            "unit": "%"
+          },
+          "operating_income_growth": {
+            "value": -20.82,
+            "reason": null,
+            "change_type": "normal",
+            "label": "영업이익 증가율",
+            "unit": "%"
+          },
+          "total_asset_growth": {
+            "value": -8.73,
+            "reason": null,
+            "change_type": "normal",
+            "label": "총자산증가율",
+            "unit": "%"
+          },
+          "ppe_growth": {
+            "value": 4.59,
+            "reason": null,
+            "change_type": "normal",
+            "label": "유형자산증가율",
+            "unit": "%"
+          },
+          "capital_impairment_ratio": {
+            "value": 0.0,
+            "raw_value": -632.29,
+            "reason": null,
+            "basis": "owners_equity",
+            "issued_capital": 13904924000,
+            "parent_equity": 101824992189,
+            "label": "자본잠식률",
+            "unit": "%"
+          }
+        }
+      }
+    }
+  },
+  "rules": {
+    "corp_code": "01014055",
+    "corp_name": "에스트래픽 주식회사",
+    "fs_div": "CFS",
+    "latest_year": "2025",
+    "years": {
+      "2021": {
+        "period_end": "2021-12-31",
+        "flags": [
+          {
+            "code": "NET_LOSS",
+            "title": "당기순손실",
+            "severity": "warning",
+            "year": "2021",
+            "evidence": {
+              "net_income": -8581832381,
+              "unit": "KRW"
+            }
+          },
+          {
+            "code": "NEGATIVE_OPERATING_CASH_FLOW",
+            "title": "영업활동현금흐름 음수",
+            "severity": "warning",
+            "year": "2021",
+            "evidence": {
+              "operating_cash_flow": -6089870645,
+              "unit": "KRW"
+            }
+          }
+        ],
+        "unassessed": [
+          {
+            "code": "REPEATED_OPERATING_LOSS",
+            "reason": "연속된 직전 회계기간 없음"
+          },
+          {
+            "code": "REPEATED_NEGATIVE_CASH_FLOW",
+            "reason": "연속된 직전 회계기간 없음"
+          }
+        ],
+        "capital_impairment": {
+          "capital_impairment_ratio": 0.0,
+          "issued_capital": 12974431000,
+          "parent_equity": 31376239914,
+          "equity_basis": "owners_equity",
+          "level": "none",
+          "unit": "KRW"
+        },
+        "flag_count": 2,
+        "evaluated_rules": 4
+      },
+      "2022": {
+        "period_end": "2022-12-31",
+        "flags": [],
+        "unassessed": [],
+        "capital_impairment": {
+          "capital_impairment_ratio": 0.0,
+          "issued_capital": 13066966000,
+          "parent_equity": 64576909259,
+          "equity_basis": "owners_equity",
+          "level": "none",
+          "unit": "KRW"
+        },
+        "flag_count": 0,
+        "evaluated_rules": 6
+      },
+      "2023": {
+        "period_end": "2023-12-31",
+        "flags": [],
+        "unassessed": [],
+        "capital_impairment": {
+          "capital_impairment_ratio": 0.0,
+          "issued_capital": 13766121000,
+          "parent_equity": 93870252892,
+          "equity_basis": "owners_equity",
+          "level": "none",
+          "unit": "KRW"
+        },
+        "flag_count": 0,
+        "evaluated_rules": 6
+      },
+      "2024": {
+        "period_end": "2024-12-31",
+        "flags": [],
+        "unassessed": [],
+        "capital_impairment": {
+          "capital_impairment_ratio": 0.0,
+          "issued_capital": 13904924000,
+          "parent_equity": 98106608138,
+          "equity_basis": "owners_equity",
+          "level": "none",
+          "unit": "KRW"
+        },
+        "flag_count": 0,
+        "evaluated_rules": 6
+      },
+      "2025": {
+        "period_end": "2025-12-31",
+        "flags": [],
+        "unassessed": [],
+        "capital_impairment": {
+          "capital_impairment_ratio": 0.0,
+          "issued_capital": 13904924000,
+          "parent_equity": 101824992189,
+          "equity_basis": "owners_equity",
+          "level": "none",
+          "unit": "KRW"
+        },
+        "flag_count": 0,
+        "evaluated_rules": 6
+      }
+    },
+    "note": "위험 신호 탐지 결과이며 기업 종합 위험등급·부도확률이 아닙니다."
+  },
+  "trends": {
+    "corp_code": "01014055",
+    "corp_name": "에스트래픽 주식회사",
+    "fs_div": "CFS",
+    "latest_year": "2025",
+    "years": {
+      "2021": {
+        "period_end": "2021-12-31",
+        "previous_year": null,
+        "metrics": {
+          "debt_ratio": {
+            "label": "부채비율",
+            "current_value": 292.94,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "current_ratio": {
+            "label": "유동비율",
+            "current_value": 140.08,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "equity_ratio": {
+            "label": "자기자본비율",
+            "current_value": 25.45,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "operating_margin": {
+            "label": "영업이익률",
+            "current_value": 0.98,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "net_margin": {
+            "label": "순이익률",
+            "current_value": -6.25,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "roa": {
+            "label": "총자산순이익률(ROA)",
+            "current_value": null,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "operating_cash_flow": {
+            "label": "영업활동현금흐름",
+            "current_value": -6089870645,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "KRW",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "cash_flow_to_debt": {
+            "label": "부채 대비 영업현금 창출력",
+            "current_value": -5.93,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "investing_cash_flow": {
+            "label": "투자활동현금흐름",
+            "current_value": -6974001821,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "KRW",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "financing_cash_flow": {
+            "label": "재무활동현금흐름",
+            "current_value": 21860064668,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "KRW",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "revenue_growth": {
+            "label": "매출액 증가율",
+            "current_value": null,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "operating_income_growth": {
+            "label": "영업이익 증가율",
+            "current_value": null,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "total_asset_growth": {
+            "label": "총자산증가율",
+            "current_value": null,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "ppe_growth": {
+            "label": "유형자산증가율",
+            "current_value": null,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          },
+          "capital_impairment_ratio": {
+            "label": "자본잠식률",
+            "current_value": 0.0,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "비교할 직전 연속 회계연도가 없음"
+          }
+        }
+      },
+      "2022": {
+        "period_end": "2022-12-31",
+        "previous_year": "2021",
+        "metrics": {
+          "debt_ratio": {
+            "label": "부채비율",
+            "current_value": 161.3,
+            "previous_value": 292.94,
+            "change": -131.64,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "current_ratio": {
+            "label": "유동비율",
+            "current_value": 141.93,
+            "previous_value": 140.08,
+            "change": 1.85,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "equity_ratio": {
+            "label": "자기자본비율",
+            "current_value": 38.27,
+            "previous_value": 25.45,
+            "change": 12.82,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "operating_margin": {
+            "label": "영업이익률",
+            "current_value": 7.27,
+            "previous_value": 0.98,
+            "change": 6.29,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "net_margin": {
+            "label": "순이익률",
+            "current_value": 24.52,
+            "previous_value": -6.25,
+            "change": 30.77,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "roa": {
+            "label": "총자산순이익률(ROA)",
+            "current_value": 20.46,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "현재 또는 직전 연도 지표가 계산되지 않음"
+          },
+          "operating_cash_flow": {
+            "label": "영업활동현금흐름",
+            "current_value": 5316233049,
+            "previous_value": -6089870645,
+            "change": 11406103694,
+            "change_unit": "KRW",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "cash_flow_to_debt": {
+            "label": "부채 대비 영업현금 창출력",
+            "current_value": 4.81,
+            "previous_value": -5.93,
+            "change": 10.74,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "investing_cash_flow": {
+            "label": "투자활동현금흐름",
+            "current_value": -4328547890,
+            "previous_value": -6974001821,
+            "change": 2645453931,
+            "change_unit": "KRW",
+            "direction": "increase",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "financing_cash_flow": {
+            "label": "재무활동현금흐름",
+            "current_value": -13723294769,
+            "previous_value": 21860064668,
+            "change": -35583359437,
+            "change_unit": "KRW",
+            "direction": "decrease",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "revenue_growth": {
+            "label": "매출액 증가율",
+            "current_value": -3.88,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "현재 또는 직전 연도 지표가 계산되지 않음"
+          },
+          "operating_income_growth": {
+            "label": "영업이익 증가율",
+            "current_value": 614.05,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "현재 또는 직전 연도 지표가 계산되지 않음"
+          },
+          "total_asset_growth": {
+            "label": "총자산증가율",
+            "current_value": 29.99,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "현재 또는 직전 연도 지표가 계산되지 않음"
+          },
+          "ppe_growth": {
+            "label": "유형자산증가율",
+            "current_value": -27.31,
+            "previous_value": null,
+            "change": null,
+            "change_unit": "%p",
+            "direction": "unknown",
+            "interpretation": "not_assessed",
+            "reason": "현재 또는 직전 연도 지표가 계산되지 않음"
+          },
+          "capital_impairment_ratio": {
+            "label": "자본잠식률",
+            "current_value": 0.0,
+            "previous_value": 0.0,
+            "change": 0.0,
+            "change_unit": "%p",
+            "direction": "unchanged",
+            "interpretation": "unchanged",
+            "reason": null
+          }
+        }
+      },
+      "2023": {
+        "period_end": "2023-12-31",
+        "previous_year": "2022",
+        "metrics": {
+          "debt_ratio": {
+            "label": "부채비율",
+            "current_value": 97.97,
+            "previous_value": 161.3,
+            "change": -63.33,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "current_ratio": {
+            "label": "유동비율",
+            "current_value": 153.69,
+            "previous_value": 141.93,
+            "change": 11.76,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "equity_ratio": {
+            "label": "자기자본비율",
+            "current_value": 50.51,
+            "previous_value": 38.27,
+            "change": 12.24,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "operating_margin": {
+            "label": "영업이익률",
+            "current_value": 11.81,
+            "previous_value": 7.27,
+            "change": 4.54,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "net_margin": {
+            "label": "순이익률",
+            "current_value": 11.35,
+            "previous_value": 24.52,
+            "change": -13.17,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "roa": {
+            "label": "총자산순이익률(ROA)",
+            "current_value": 9.14,
+            "previous_value": 20.46,
+            "change": -11.32,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "operating_cash_flow": {
+            "label": "영업활동현금흐름",
+            "current_value": 373758462,
+            "previous_value": 5316233049,
+            "change": -4942474587,
+            "change_unit": "KRW",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "cash_flow_to_debt": {
+            "label": "부채 대비 영업현금 창출력",
+            "current_value": 0.4,
+            "previous_value": 4.81,
+            "change": -4.41,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "investing_cash_flow": {
+            "label": "투자활동현금흐름",
+            "current_value": 1609163774,
+            "previous_value": -4328547890,
+            "change": 5937711664,
+            "change_unit": "KRW",
+            "direction": "increase",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "financing_cash_flow": {
+            "label": "재무활동현금흐름",
+            "current_value": -1900219799,
+            "previous_value": -13723294769,
+            "change": 11823074970,
+            "change_unit": "KRW",
+            "direction": "increase",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "revenue_growth": {
+            "label": "매출액 증가율",
+            "current_value": 11.44,
+            "previous_value": -3.88,
+            "change": 15.32,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "operating_income_growth": {
+            "label": "영업이익 증가율",
+            "current_value": 81.12,
+            "previous_value": 614.05,
+            "change": -532.93,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "total_asset_growth": {
+            "label": "총자산증가율",
+            "current_value": 4.25,
+            "previous_value": 29.99,
+            "change": -25.74,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "ppe_growth": {
+            "label": "유형자산증가율",
+            "current_value": 154.61,
+            "previous_value": -27.31,
+            "change": 181.92,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "capital_impairment_ratio": {
+            "label": "자본잠식률",
+            "current_value": 0.0,
+            "previous_value": 0.0,
+            "change": 0.0,
+            "change_unit": "%p",
+            "direction": "unchanged",
+            "interpretation": "unchanged",
+            "reason": null
+          }
+        }
+      },
+      "2024": {
+        "period_end": "2024-12-31",
+        "previous_year": "2023",
+        "metrics": {
+          "debt_ratio": {
+            "label": "부채비율",
+            "current_value": 92.35,
+            "previous_value": 97.97,
+            "change": -5.62,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "current_ratio": {
+            "label": "유동비율",
+            "current_value": 152.01,
+            "previous_value": 153.69,
+            "change": -1.68,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "equity_ratio": {
+            "label": "자기자본비율",
+            "current_value": 51.99,
+            "previous_value": 50.51,
+            "change": 1.48,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "operating_margin": {
+            "label": "영업이익률",
+            "current_value": 5.98,
+            "previous_value": 11.81,
+            "change": -5.83,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "net_margin": {
+            "label": "순이익률",
+            "current_value": 3.16,
+            "previous_value": 11.35,
+            "change": -8.19,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "roa": {
+            "label": "총자산순이익률(ROA)",
+            "current_value": 3.17,
+            "previous_value": 9.14,
+            "change": -5.97,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "operating_cash_flow": {
+            "label": "영업활동현금흐름",
+            "current_value": 14189933994,
+            "previous_value": 373758462,
+            "change": 13816175532,
+            "change_unit": "KRW",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "cash_flow_to_debt": {
+            "label": "부채 대비 영업현금 창출력",
+            "current_value": 15.6,
+            "previous_value": 0.4,
+            "change": 15.2,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "investing_cash_flow": {
+            "label": "투자활동현금흐름",
+            "current_value": -6269471499,
+            "previous_value": 1609163774,
+            "change": -7878635273,
+            "change_unit": "KRW",
+            "direction": "decrease",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "financing_cash_flow": {
+            "label": "재무활동현금흐름",
+            "current_value": -2704409582,
+            "previous_value": -1900219799,
+            "change": -804189783,
+            "change_unit": "KRW",
+            "direction": "decrease",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "revenue_growth": {
+            "label": "매출액 증가율",
+            "current_value": 28.45,
+            "previous_value": 11.44,
+            "change": 17.01,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "operating_income_growth": {
+            "label": "영업이익 증가율",
+            "current_value": -34.91,
+            "previous_value": 81.12,
+            "change": -116.03,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "total_asset_growth": {
+            "label": "총자산증가율",
+            "current_value": 1.52,
+            "previous_value": 4.25,
+            "change": -2.73,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "ppe_growth": {
+            "label": "유형자산증가율",
+            "current_value": 26.24,
+            "previous_value": 154.61,
+            "change": -128.37,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "capital_impairment_ratio": {
+            "label": "자본잠식률",
+            "current_value": 0.0,
+            "previous_value": 0.0,
+            "change": 0.0,
+            "change_unit": "%p",
+            "direction": "unchanged",
+            "interpretation": "unchanged",
+            "reason": null
+          }
+        }
+      },
+      "2025": {
+        "period_end": "2025-12-31",
+        "previous_year": "2024",
+        "metrics": {
+          "debt_ratio": {
+            "label": "부채비율",
+            "current_value": 69.07,
+            "previous_value": 92.35,
+            "change": -23.28,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "current_ratio": {
+            "label": "유동비율",
+            "current_value": 127.87,
+            "previous_value": 152.01,
+            "change": -24.14,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "equity_ratio": {
+            "label": "자기자본비율",
+            "current_value": 59.15,
+            "previous_value": 51.99,
+            "change": 7.16,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "operating_margin": {
+            "label": "영업이익률",
+            "current_value": 5.32,
+            "previous_value": 5.98,
+            "change": -0.66,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "net_margin": {
+            "label": "순이익률",
+            "current_value": 2.94,
+            "previous_value": 3.16,
+            "change": -0.22,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "roa": {
+            "label": "총자산순이익률(ROA)",
+            "current_value": 2.73,
+            "previous_value": 3.17,
+            "change": -0.44,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "operating_cash_flow": {
+            "label": "영업활동현금흐름",
+            "current_value": 4041799401,
+            "previous_value": 14189933994,
+            "change": -10148134593,
+            "change_unit": "KRW",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "cash_flow_to_debt": {
+            "label": "부채 대비 영업현금 창출력",
+            "current_value": 5.72,
+            "previous_value": 15.6,
+            "change": -9.88,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "investing_cash_flow": {
+            "label": "투자활동현금흐름",
+            "current_value": -7338936008,
+            "previous_value": -6269471499,
+            "change": -1069464509,
+            "change_unit": "KRW",
+            "direction": "decrease",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "financing_cash_flow": {
+            "label": "재무활동현금흐름",
+            "current_value": -1285023947,
+            "previous_value": -2704409582,
+            "change": 1419385635,
+            "change_unit": "KRW",
+            "direction": "increase",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "revenue_growth": {
+            "label": "매출액 증가율",
+            "current_value": -11.01,
+            "previous_value": 28.45,
+            "change": -39.46,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "deteriorating",
+            "reason": null
+          },
+          "operating_income_growth": {
+            "label": "영업이익 증가율",
+            "current_value": -20.82,
+            "previous_value": -34.91,
+            "change": 14.09,
+            "change_unit": "%p",
+            "direction": "increase",
+            "interpretation": "improving",
+            "reason": null
+          },
+          "total_asset_growth": {
+            "label": "총자산증가율",
+            "current_value": -8.73,
+            "previous_value": 1.52,
+            "change": -10.25,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "ppe_growth": {
+            "label": "유형자산증가율",
+            "current_value": 4.59,
+            "previous_value": 26.24,
+            "change": -21.65,
+            "change_unit": "%p",
+            "direction": "decrease",
+            "interpretation": "not_assessed",
+            "reason": null
+          },
+          "capital_impairment_ratio": {
+            "label": "자본잠식률",
+            "current_value": 0.0,
+            "previous_value": 0.0,
+            "change": 0.0,
+            "change_unit": "%p",
+            "direction": "unchanged",
+            "interpretation": "unchanged",
+            "reason": null
+          }
+        }
+      }
+    },
+    "summaries": {
+      "debt_ratio": {
+        "label": "부채비율",
+        "status": "consistently_decreasing",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": 292.94,
+        "latest_value": 69.07,
+        "overall_change": -223.87,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "current_ratio": {
+        "label": "유동비율",
+        "status": "mixed",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": 140.08,
+        "latest_value": 127.87,
+        "overall_change": -12.21,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "equity_ratio": {
+        "label": "자기자본비율",
+        "status": "consistently_increasing",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": 25.45,
+        "latest_value": 59.15,
+        "overall_change": 33.7,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "operating_margin": {
+        "label": "영업이익률",
+        "status": "mixed",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": 0.98,
+        "latest_value": 5.32,
+        "overall_change": 4.34,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "net_margin": {
+        "label": "순이익률",
+        "status": "mixed",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": -6.25,
+        "latest_value": 2.94,
+        "overall_change": 9.19,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "roa": {
+        "label": "총자산순이익률(ROA)",
+        "status": "consistently_decreasing",
+        "years_used": [
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": 20.46,
+        "latest_value": 2.73,
+        "overall_change": -17.73,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "operating_cash_flow": {
+        "label": "영업활동현금흐름",
+        "status": "mixed",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": -6089870645,
+        "latest_value": 4041799401,
+        "overall_change": 10131670046,
+        "change_unit": "KRW",
+        "reason": null
+      },
+      "cash_flow_to_debt": {
+        "label": "부채 대비 영업현금 창출력",
+        "status": "mixed",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": -5.93,
+        "latest_value": 5.72,
+        "overall_change": 11.65,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "investing_cash_flow": {
+        "label": "투자활동현금흐름",
+        "status": "mixed",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": -6974001821,
+        "latest_value": -7338936008,
+        "overall_change": -364934187,
+        "change_unit": "KRW",
+        "reason": null
+      },
+      "financing_cash_flow": {
+        "label": "재무활동현금흐름",
+        "status": "mixed",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": 21860064668,
+        "latest_value": -1285023947,
+        "overall_change": -23145088615,
+        "change_unit": "KRW",
+        "reason": null
+      },
+      "revenue_growth": {
+        "label": "매출액 증가율",
+        "status": "mixed",
+        "years_used": [
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": -3.88,
+        "latest_value": -11.01,
+        "overall_change": -7.13,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "operating_income_growth": {
+        "label": "영업이익 증가율",
+        "status": "mixed",
+        "years_used": [
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": 614.05,
+        "latest_value": -20.82,
+        "overall_change": -634.87,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "total_asset_growth": {
+        "label": "총자산증가율",
+        "status": "consistently_decreasing",
+        "years_used": [
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": 29.99,
+        "latest_value": -8.73,
+        "overall_change": -38.72,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "ppe_growth": {
+        "label": "유형자산증가율",
+        "status": "mixed",
+        "years_used": [
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": -27.31,
+        "latest_value": 4.59,
+        "overall_change": 31.9,
+        "change_unit": "%p",
+        "reason": null
+      },
+      "capital_impairment_ratio": {
+        "label": "자본잠식률",
+        "status": "unchanged",
+        "years_used": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "first_value": 0.0,
+        "latest_value": 0.0,
+        "overall_change": 0.0,
+        "change_unit": "%p",
+        "reason": null
+      }
+    },
+    "note": "변화 방향은 기술적 분석이며 재무위험 판정 또는 업종별 평가가 아님"
+  },
+  "comparison": {
+    "corp_code": "01014055",
+    "corp_name": "에스트래픽 주식회사",
+    "year_key": "2025",
+    "fiscal_year": 2025,
+    "period_end": "2025-12-31",
+    "industry_code": "J62",
+    "company_size": "A",
+    "fs_div": "OFS",
+    "metrics": {
+      "debt_ratio": {
+        "label": "부채비율",
+        "value": 63.23,
+        "unit": "%",
+        "status": "reference_only",
+        "reason": "한국은행 모집단/회계기준/산식과 DART의 차이 가능: 참고 비교",
+        "comparison_type": "reference_only",
+        "quantile_coverage": "full_quantile",
+        "original_industry_code": "J62",
+        "requested_company_size": "A",
+        "fallback_used": false,
+        "comparison_year_type": "same_year",
+        "benchmark_year": 2025,
+        "percentile_band": "p25_to_p50",
+        "relative_to_median": "favorable_side",
+        "median": 116.4,
+        "difference_from_median_pp": -53.17,
+        "quantiles": {
+          "p25": 24.9,
+          "p50": 116.4,
+          "p75": 1021.7
+        },
+        "source": "BOK_ECOS",
+        "source_url": "https://ecos.bok.or.kr/",
+        "benchmark_version": "BOK_501Y086_2025_A",
+        "industry_name": "J62 컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+        "benchmark_industry_code": "J62",
+        "benchmark_company_size": "A",
+        "company_size": "A",
+        "fallback_type": "exact"
+      },
+      "operating_margin": {
+        "label": "영업이익률",
+        "value": 4.14,
+        "unit": "%",
+        "status": "reference_only",
+        "reason": "한국은행 모집단/회계기준/산식과 DART의 차이 가능: 참고 비교",
+        "comparison_type": "reference_only",
+        "quantile_coverage": "full_quantile",
+        "original_industry_code": "J62",
+        "requested_company_size": "A",
+        "fallback_used": false,
+        "comparison_year_type": "same_year",
+        "benchmark_year": 2025,
+        "percentile_band": "p50_to_p75",
+        "relative_to_median": "favorable_side",
+        "median": 1.9,
+        "difference_from_median_pp": 2.24,
+        "quantiles": {
+          "p25": -17.9,
+          "p50": 1.9,
+          "p75": 10.2
+        },
+        "source": "BOK_ECOS",
+        "source_url": "https://ecos.bok.or.kr/",
+        "benchmark_version": "BOK_501Y086_2025_A",
+        "industry_name": "J62 컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+        "benchmark_industry_code": "J62",
+        "benchmark_company_size": "A",
+        "company_size": "A",
+        "fallback_type": "exact"
+      },
+      "net_margin": {
+        "label": "순이익률",
+        "value": 2.05,
+        "unit": "%",
+        "status": "reference_only",
+        "reason": "한국은행 모집단/회계기준/산식과 DART의 차이 가능: 참고 비교",
+        "comparison_type": "reference_only",
+        "quantile_coverage": "full_quantile",
+        "original_industry_code": "J62",
+        "requested_company_size": "A",
+        "fallback_used": false,
+        "comparison_year_type": "same_year",
+        "benchmark_year": 2025,
+        "percentile_band": "p50_to_p75",
+        "relative_to_median": "favorable_side",
+        "median": 1.8,
+        "difference_from_median_pp": 0.25,
+        "quantiles": {
+          "p25": -14.8,
+          "p50": 1.8,
+          "p75": 10.2
+        },
+        "source": "BOK_ECOS",
+        "source_url": "https://ecos.bok.or.kr/",
+        "benchmark_version": "BOK_501Y086_2025_A",
+        "industry_name": "J62 컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+        "benchmark_industry_code": "J62",
+        "benchmark_company_size": "A",
+        "company_size": "A",
+        "fallback_type": "exact"
+      },
+      "revenue_growth": {
+        "label": "매출액 증가율",
+        "value": -13.82,
+        "unit": "%",
+        "status": "reference_only",
+        "reason": "한국은행 모집단/회계기준/산식과 DART의 차이 가능: 참고 비교",
+        "comparison_type": "reference_only",
+        "quantile_coverage": "full_quantile",
+        "original_industry_code": "J62",
+        "requested_company_size": "A",
+        "fallback_used": false,
+        "comparison_year_type": "same_year",
+        "benchmark_year": 2025,
+        "percentile_band": "p25_to_p50",
+        "relative_to_median": "unfavorable_side",
+        "median": 1.8,
+        "difference_from_median_pp": -15.62,
+        "quantiles": {
+          "p25": -26.9,
+          "p50": 1.8,
+          "p75": 43.6
+        },
+        "source": "BOK_ECOS",
+        "source_url": "https://ecos.bok.or.kr/",
+        "benchmark_version": "BOK_501Y086_2025_A",
+        "industry_name": "J62 컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+        "benchmark_industry_code": "J62",
+        "benchmark_company_size": "A",
+        "company_size": "A",
+        "fallback_type": "exact"
+      },
+      "total_asset_growth": {
+        "label": "총자산증가율",
+        "value": -15.38,
+        "unit": "%",
+        "status": "reference_only",
+        "reason": "한국은행 모집단/회계기준/산식과 DART의 차이 가능: 참고 비교",
+        "comparison_type": "reference_only",
+        "quantile_coverage": "full_quantile",
+        "original_industry_code": "J62",
+        "requested_company_size": "A",
+        "fallback_used": false,
+        "comparison_year_type": "same_year",
+        "benchmark_year": 2025,
+        "percentile_band": "below_p25",
+        "relative_to_median": "context_required",
+        "median": 4.0,
+        "difference_from_median_pp": -19.38,
+        "quantiles": {
+          "p25": -12.7,
+          "p50": 4.0,
+          "p75": 32.0
+        },
+        "source": "BOK_ECOS",
+        "source_url": "https://ecos.bok.or.kr/",
+        "benchmark_version": "BOK_501Y086_2025_A",
+        "industry_name": "J62 컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+        "benchmark_industry_code": "J62",
+        "benchmark_company_size": "A",
+        "company_size": "A",
+        "fallback_type": "exact"
+      },
+      "ppe_growth": {
+        "label": "유형자산증가율",
+        "value": 5.13,
+        "unit": "%",
+        "status": "reference_only",
+        "reason": "한국은행 모집단/회계기준/산식과 DART의 차이 가능: 참고 비교",
+        "comparison_type": "reference_only",
+        "quantile_coverage": "full_quantile",
+        "original_industry_code": "J62",
+        "requested_company_size": "A",
+        "fallback_used": false,
+        "comparison_year_type": "same_year",
+        "benchmark_year": 2025,
+        "percentile_band": "above_p75",
+        "relative_to_median": "context_required",
+        "median": 0.0,
+        "difference_from_median_pp": 5.13,
+        "quantiles": {
+          "p25": -26.4,
+          "p50": 0.0,
+          "p75": 0.0
+        },
+        "source": "BOK_ECOS",
+        "source_url": "https://ecos.bok.or.kr/",
+        "benchmark_version": "BOK_501Y086_2025_A",
+        "industry_name": "J62 컴퓨터 프로그래밍, 시스템 통합 및 관리업",
+        "benchmark_industry_code": "J62",
+        "benchmark_company_size": "A",
+        "company_size": "A",
+        "fallback_type": "exact"
+      }
+    },
+    "coverage": {
+      "compared": 6,
+      "total": 6,
+      "full_quantile": 6,
+      "median_only": 0,
+      "fallback_used": 0
+    },
+    "note": "ECOS 업종통계는 상대적 위치 참고용이며 위험·안전 판정이 아니다. 대체 기준/산식/연도/회계범위 확인 필요.",
+    "basis_fs_div": "OFS",
+    "basis_data": {
+      "fs_div": "OFS",
+      "financials": {
+        "2024": {
+          "fiscal_year": 2024,
+          "period_start": "2024-01-01",
+          "period_end": "2024-12-31",
+          "statement": {
+            "total_assets": 171623144501,
+            "total_liabilities": 84425036602,
+            "total_equity": 87198107899,
+            "current_assets": 99887164148,
+            "current_liabilities": 75702774044,
+            "revenue": 146139432279,
+            "operating_income": 4027706183,
+            "net_income": 1135341635,
+            "operating_cash_flow": 9974556265,
+            "property_plant_equipment": 40463467614,
+            "investing_cash_flow": -6207078142,
+            "financing_cash_flow": -2409526896,
+            "issued_capital": 13904924000,
+            "equity_attributable_to_owners": null,
+            "noncontrolling_interests": null
+          }
+        },
+        "2025": {
+          "fiscal_year": 2025,
+          "period_start": "2025-01-01",
+          "period_end": "2025-12-31",
+          "statement": {
+            "total_assets": 145231415219,
+            "total_liabilities": 56256708676,
+            "total_equity": 88974706543,
+            "current_assets": 60531180752,
+            "current_liabilities": 54340321363,
+            "revenue": 125941973660,
+            "operating_income": 5217710334,
+            "net_income": 2579551222,
+            "operating_cash_flow": 4471782993,
+            "property_plant_equipment": 42538008169,
+            "investing_cash_flow": -7386123594,
+            "financing_cash_flow": -715415076,
+            "issued_capital": 13904924000,
+            "equity_attributable_to_owners": null,
+            "noncontrolling_interests": null
+          }
+        }
+      },
+      "sources": {
+        "2024": {
+          "status": "available",
+          "rcept_no": "20250410002177"
+        },
+        "2025": {
+          "status": "available",
+          "rcept_no": "20260316001065"
+        }
+      },
+      "ratios": {
+        "2024": {
+          "debt_ratio": {
+            "value": 96.82,
+            "reason": null,
+            "label": "부채비율",
+            "unit": "%"
+          },
+          "operating_margin": {
+            "value": 2.76,
+            "reason": null,
+            "label": "영업이익률",
+            "unit": "%"
+          },
+          "net_margin": {
+            "value": 0.78,
+            "reason": null,
+            "label": "순이익률",
+            "unit": "%"
+          },
+          "revenue_growth": {
+            "value": null,
+            "reason": "매출액: 당기 또는 전기 금액 누락",
+            "change_type": "unknown",
+            "label": "매출액 증가율",
+            "unit": "%"
+          },
+          "total_asset_growth": {
+            "value": null,
+            "reason": "총자산: 당기 또는 전기 금액 누락",
+            "change_type": "unknown",
+            "label": "총자산증가율",
+            "unit": "%"
+          },
+          "ppe_growth": {
+            "value": null,
+            "reason": "유형자산: 당기 또는 전기 금액 누락",
+            "change_type": "unknown",
+            "label": "유형자산증가율",
+            "unit": "%"
+          }
+        },
+        "2025": {
+          "debt_ratio": {
+            "value": 63.23,
+            "reason": null,
+            "label": "부채비율",
+            "unit": "%"
+          },
+          "operating_margin": {
+            "value": 4.14,
+            "reason": null,
+            "label": "영업이익률",
+            "unit": "%"
+          },
+          "net_margin": {
+            "value": 2.05,
+            "reason": null,
+            "label": "순이익률",
+            "unit": "%"
+          },
+          "revenue_growth": {
+            "value": -13.82,
+            "reason": null,
+            "change_type": "normal",
+            "label": "매출액 증가율",
+            "unit": "%"
+          },
+          "total_asset_growth": {
+            "value": -15.38,
+            "reason": null,
+            "change_type": "normal",
+            "label": "총자산증가율",
+            "unit": "%"
+          },
+          "ppe_growth": {
+            "value": 5.13,
+            "reason": null,
+            "change_type": "normal",
+            "label": "유형자산증가율",
+            "unit": "%"
+          }
+        }
+      }
+    }
+  },
+  "benchmark_files": [
+    "data/benchmarks/bok_2025_A.csv",
+    "data/benchmarks/bok_2025_L.csv",
+    "data/benchmarks/bok_2025_M.csv"
+  ]
+}

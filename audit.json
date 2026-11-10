@@ -1,0 +1,736 @@
+{
+  "source": "DART_API",
+  "corp_code": "00229021",
+  "stock_code": "033230",
+  "fs_div": "CFS",
+  "business_year_window": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "settlement_month": 12,
+  "year_status": {
+    "2021": {
+      "status": "available",
+      "fiscal_year_key": "2021",
+      "nonmissing_accounts": 15,
+      "rcept_no": "20220728000286"
+    },
+    "2022": {
+      "status": "available",
+      "fiscal_year_key": "2022",
+      "nonmissing_accounts": 15,
+      "rcept_no": "20230321001484"
+    },
+    "2023": {
+      "status": "available",
+      "fiscal_year_key": "2023",
+      "nonmissing_accounts": 15,
+      "rcept_no": "20240320001941"
+    },
+    "2024": {
+      "status": "available",
+      "fiscal_year_key": "2024",
+      "nonmissing_accounts": 15,
+      "rcept_no": "20250319001056"
+    },
+    "2025": {
+      "status": "available",
+      "fiscal_year_key": "2025",
+      "nonmissing_accounts": 15,
+      "rcept_no": "20260318000889"
+    }
+  },
+  "accounts_audit": {
+    "2021": {
+      "business_year": 2021,
+      "fs_div": "CFS",
+      "period_start": "2021-01-01",
+      "period_end": "2021-12-31",
+      "period_source": "derived_from_current_acc_mt",
+      "rcept_no": "20220728000286",
+      "fields": {
+        "total_assets": {
+          "status": "verified",
+          "value": 191903735673,
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 182574580668
+        },
+        "total_liabilities": {
+          "status": "verified",
+          "value": 117495936812,
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 137077856084
+        },
+        "total_equity": {
+          "status": "verified",
+          "value": 74407798861,
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 45496724584
+        },
+        "current_assets": {
+          "status": "verified",
+          "value": 158392185437,
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 154288317499
+        },
+        "current_liabilities": {
+          "status": "verified",
+          "value": 99467927304,
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "source_row_count": 1,
+          "prior_value_in_report": 121194848731
+        },
+        "revenue": {
+          "status": "verified",
+          "value": 258308330450,
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "source_row_count": 1,
+          "prior_value_in_report": 241992992281
+        },
+        "operating_income": {
+          "status": "verified",
+          "value": 1987821577,
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": 2902695541
+        },
+        "net_income": {
+          "status": "verified",
+          "value": 765850392,
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": -6676848877
+        },
+        "operating_cash_flow": {
+          "status": "verified",
+          "value": -4349232453,
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": 15369220490
+        },
+        "property_plant_equipment": {
+          "status": "verified",
+          "value": 12917350666,
+          "account_id": "ifrs-full_PropertyPlantAndEquipment",
+          "account_nm": "유형자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 13036448294
+        },
+        "investing_cash_flow": {
+          "status": "verified",
+          "value": 2937948167,
+          "account_id": "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+          "account_nm": "투자활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": -3325429525
+        },
+        "financing_cash_flow": {
+          "status": "verified",
+          "value": -5397291306,
+          "account_id": "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+          "account_nm": "재무활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": -2292064576
+        },
+        "issued_capital": {
+          "status": "verified",
+          "value": 19607690000,
+          "account_id": "ifrs-full_IssuedCapital",
+          "account_nm": "자본금",
+          "source_row_count": 1,
+          "prior_value_in_report": 10789619000
+        },
+        "equity_attributable_to_owners": {
+          "status": "verified",
+          "value": 72623311697,
+          "account_id": "ifrs-full_EquityAttributableToOwnersOfParent",
+          "account_nm": "지배주주지분",
+          "source_row_count": 1,
+          "prior_value_in_report": 44285696066
+        },
+        "noncontrolling_interests": {
+          "status": "verified",
+          "value": 1784487164,
+          "account_id": "ifrs-full_NoncontrollingInterests",
+          "account_nm": "비지배지분",
+          "source_row_count": 1,
+          "prior_value_in_report": 1211028518
+        }
+      },
+      "warnings": [
+        "세 가지 활동별 현금흐름은 DART 원본의 부호를 유지합니다.",
+        "누락 계정은 0으로 대체하지 않습니다.",
+        "회계기간 시작·종료일은 현재 결산월로 계산한 값입니다. 과거 결산기 변경은 전기금액 대조로만 간접 점검합니다."
+      ]
+    },
+    "2022": {
+      "business_year": 2022,
+      "fs_div": "CFS",
+      "period_start": "2022-01-01",
+      "period_end": "2022-12-31",
+      "period_source": "derived_from_current_acc_mt",
+      "rcept_no": "20230321001484",
+      "fields": {
+        "total_assets": {
+          "status": "verified",
+          "value": 232476505495,
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 191903735673
+        },
+        "total_liabilities": {
+          "status": "verified",
+          "value": 156038691059,
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 117495936812
+        },
+        "total_equity": {
+          "status": "verified",
+          "value": 76437814436,
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 74407798861
+        },
+        "current_assets": {
+          "status": "verified",
+          "value": 199424454846,
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 158392185437
+        },
+        "current_liabilities": {
+          "status": "verified",
+          "value": 142317455241,
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "source_row_count": 1,
+          "prior_value_in_report": 99467927304
+        },
+        "revenue": {
+          "status": "verified",
+          "value": 314506299406,
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "source_row_count": 1,
+          "prior_value_in_report": 258308330450
+        },
+        "operating_income": {
+          "status": "verified",
+          "value": 2910287935,
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": 1987821577
+        },
+        "net_income": {
+          "status": "verified",
+          "value": 854652562,
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": 765850392
+        },
+        "operating_cash_flow": {
+          "status": "verified",
+          "value": -28364887775,
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": -4349232453
+        },
+        "property_plant_equipment": {
+          "status": "verified",
+          "value": 10995089017,
+          "account_id": "ifrs-full_PropertyPlantAndEquipment",
+          "account_nm": "유형자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 12917350666
+        },
+        "investing_cash_flow": {
+          "status": "verified",
+          "value": -340996800,
+          "account_id": "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+          "account_nm": "투자활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": 2937948167
+        },
+        "financing_cash_flow": {
+          "status": "verified",
+          "value": 17503416242,
+          "account_id": "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+          "account_nm": "재무활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": -5397291306
+        },
+        "issued_capital": {
+          "status": "verified",
+          "value": 19607690000,
+          "account_id": "ifrs-full_IssuedCapital",
+          "account_nm": "자본금",
+          "source_row_count": 1,
+          "prior_value_in_report": 19607690000
+        },
+        "equity_attributable_to_owners": {
+          "status": "verified",
+          "value": 74150524073,
+          "account_id": "ifrs-full_EquityAttributableToOwnersOfParent",
+          "account_nm": "지배주주지분",
+          "source_row_count": 1,
+          "prior_value_in_report": 72623311697
+        },
+        "noncontrolling_interests": {
+          "status": "verified",
+          "value": 2287290363,
+          "account_id": "ifrs-full_NoncontrollingInterests",
+          "account_nm": "비지배지분",
+          "source_row_count": 1,
+          "prior_value_in_report": 1784487164
+        }
+      },
+      "warnings": [
+        "세 가지 활동별 현금흐름은 DART 원본의 부호를 유지합니다.",
+        "누락 계정은 0으로 대체하지 않습니다.",
+        "회계기간 시작·종료일은 현재 결산월로 계산한 값입니다. 과거 결산기 변경은 전기금액 대조로만 간접 점검합니다."
+      ]
+    },
+    "2023": {
+      "business_year": 2023,
+      "fs_div": "CFS",
+      "period_start": "2023-01-01",
+      "period_end": "2023-12-31",
+      "period_source": "derived_from_current_acc_mt",
+      "rcept_no": "20240320001941",
+      "fields": {
+        "total_assets": {
+          "status": "verified",
+          "value": 240073993474,
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 232476505495
+        },
+        "total_liabilities": {
+          "status": "verified",
+          "value": 164212643862,
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 156038691059
+        },
+        "total_equity": {
+          "status": "verified",
+          "value": 75861349612,
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 76437814436
+        },
+        "current_assets": {
+          "status": "verified",
+          "value": 204172573168,
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 199424454846
+        },
+        "current_liabilities": {
+          "status": "verified",
+          "value": 128126041920,
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "source_row_count": 1,
+          "prior_value_in_report": 142317455241
+        },
+        "revenue": {
+          "status": "verified",
+          "value": 365240558331,
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "source_row_count": 1,
+          "prior_value_in_report": 314506299406
+        },
+        "operating_income": {
+          "status": "verified",
+          "value": 5213314477,
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": 2910287935
+        },
+        "net_income": {
+          "status": "verified",
+          "value": -807384630,
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": 854652562
+        },
+        "operating_cash_flow": {
+          "status": "verified",
+          "value": -8335223787,
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": -28364887775
+        },
+        "property_plant_equipment": {
+          "status": "verified",
+          "value": 11574317839,
+          "account_id": "ifrs-full_PropertyPlantAndEquipment",
+          "account_nm": "유형자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 10995089017
+        },
+        "investing_cash_flow": {
+          "status": "verified",
+          "value": -6041615480,
+          "account_id": "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+          "account_nm": "투자활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": -340996800
+        },
+        "financing_cash_flow": {
+          "status": "verified",
+          "value": 14910904970,
+          "account_id": "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+          "account_nm": "재무활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": 17503416242
+        },
+        "issued_capital": {
+          "status": "verified",
+          "value": 19607690000,
+          "account_id": "ifrs-full_IssuedCapital",
+          "account_nm": "자본금",
+          "source_row_count": 1,
+          "prior_value_in_report": 19607690000
+        },
+        "equity_attributable_to_owners": {
+          "status": "verified",
+          "value": 73209552096,
+          "account_id": "ifrs-full_EquityAttributableToOwnersOfParent",
+          "account_nm": "지배기업의 소유주에게 귀속되는 자본",
+          "source_row_count": 1,
+          "prior_value_in_report": 74150524073
+        },
+        "noncontrolling_interests": {
+          "status": "verified",
+          "value": 2651797516,
+          "account_id": "ifrs-full_NoncontrollingInterests",
+          "account_nm": "비지배지분",
+          "source_row_count": 1,
+          "prior_value_in_report": 2287290363
+        }
+      },
+      "warnings": [
+        "세 가지 활동별 현금흐름은 DART 원본의 부호를 유지합니다.",
+        "누락 계정은 0으로 대체하지 않습니다.",
+        "회계기간 시작·종료일은 현재 결산월로 계산한 값입니다. 과거 결산기 변경은 전기금액 대조로만 간접 점검합니다."
+      ]
+    },
+    "2024": {
+      "business_year": 2024,
+      "fs_div": "CFS",
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "period_source": "derived_from_current_acc_mt",
+      "rcept_no": "20250319001056",
+      "fields": {
+        "total_assets": {
+          "status": "verified",
+          "value": 232037879542,
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 240073993474
+        },
+        "total_liabilities": {
+          "status": "verified",
+          "value": 143002358063,
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 164212643862
+        },
+        "total_equity": {
+          "status": "verified",
+          "value": 89035521479,
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 75861349612
+        },
+        "current_assets": {
+          "status": "verified",
+          "value": 195488242610,
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 204172573168
+        },
+        "current_liabilities": {
+          "status": "verified",
+          "value": 111461952572,
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "source_row_count": 1,
+          "prior_value_in_report": 128126041920
+        },
+        "revenue": {
+          "status": "verified",
+          "value": 359586930378,
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "source_row_count": 1,
+          "prior_value_in_report": 365240558331
+        },
+        "operating_income": {
+          "status": "verified",
+          "value": -4745951116,
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": 5213314477
+        },
+        "net_income": {
+          "status": "verified",
+          "value": -9407606826,
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": -807384630
+        },
+        "operating_cash_flow": {
+          "status": "verified",
+          "value": 15222593092,
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": -8335223787
+        },
+        "property_plant_equipment": {
+          "status": "verified",
+          "value": 10175239727,
+          "account_id": "ifrs-full_PropertyPlantAndEquipment",
+          "account_nm": "유형자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 11574317839
+        },
+        "investing_cash_flow": {
+          "status": "verified",
+          "value": 589850842,
+          "account_id": "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+          "account_nm": "투자활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": -6041615480
+        },
+        "financing_cash_flow": {
+          "status": "verified",
+          "value": 2753637824,
+          "account_id": "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+          "account_nm": "재무활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": 14910904970
+        },
+        "issued_capital": {
+          "status": "verified",
+          "value": 25257690000,
+          "account_id": "ifrs-full_IssuedCapital",
+          "account_nm": "자본금",
+          "source_row_count": 1,
+          "prior_value_in_report": 19607690000
+        },
+        "equity_attributable_to_owners": {
+          "status": "verified",
+          "value": 87993629674,
+          "account_id": "ifrs-full_EquityAttributableToOwnersOfParent",
+          "account_nm": "지배기업의 소유주에게 귀속되는 자본",
+          "source_row_count": 1,
+          "prior_value_in_report": 73209552096
+        },
+        "noncontrolling_interests": {
+          "status": "verified",
+          "value": 1041891805,
+          "account_id": "ifrs-full_NoncontrollingInterests",
+          "account_nm": "비지배지분",
+          "source_row_count": 1,
+          "prior_value_in_report": 2651797516
+        }
+      },
+      "warnings": [
+        "세 가지 활동별 현금흐름은 DART 원본의 부호를 유지합니다.",
+        "누락 계정은 0으로 대체하지 않습니다.",
+        "회계기간 시작·종료일은 현재 결산월로 계산한 값입니다. 과거 결산기 변경은 전기금액 대조로만 간접 점검합니다."
+      ]
+    },
+    "2025": {
+      "business_year": 2025,
+      "fs_div": "CFS",
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "period_source": "derived_from_current_acc_mt",
+      "rcept_no": "20260318000889",
+      "fields": {
+        "total_assets": {
+          "status": "verified",
+          "value": 227467381318,
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 232037879542
+        },
+        "total_liabilities": {
+          "status": "verified",
+          "value": 139244683144,
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 143002358063
+        },
+        "total_equity": {
+          "status": "verified",
+          "value": 88222698174,
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "source_row_count": 1,
+          "prior_value_in_report": 89035521479
+        },
+        "current_assets": {
+          "status": "verified",
+          "value": 191249099766,
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 195488242610
+        },
+        "current_liabilities": {
+          "status": "verified",
+          "value": 128169385870,
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "source_row_count": 1,
+          "prior_value_in_report": 111461952572
+        },
+        "revenue": {
+          "status": "verified",
+          "value": 342737745051,
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "source_row_count": 1,
+          "prior_value_in_report": 359586930378
+        },
+        "operating_income": {
+          "status": "verified",
+          "value": -4277168410,
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": -4745951116
+        },
+        "net_income": {
+          "status": "verified",
+          "value": -5110969690,
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "source_row_count": 1,
+          "prior_value_in_report": -9407606826
+        },
+        "operating_cash_flow": {
+          "status": "verified",
+          "value": 21387631461,
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": 15222593092
+        },
+        "property_plant_equipment": {
+          "status": "verified",
+          "value": 8123004940,
+          "account_id": "ifrs-full_PropertyPlantAndEquipment",
+          "account_nm": "유형자산",
+          "source_row_count": 1,
+          "prior_value_in_report": 10175239727
+        },
+        "investing_cash_flow": {
+          "status": "verified",
+          "value": 1844797316,
+          "account_id": "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+          "account_nm": "투자활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": 589850842
+        },
+        "financing_cash_flow": {
+          "status": "verified",
+          "value": -11694716149,
+          "account_id": "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+          "account_nm": "재무활동현금흐름",
+          "source_row_count": 1,
+          "prior_value_in_report": 2753637824
+        },
+        "issued_capital": {
+          "status": "verified",
+          "value": 25257690000,
+          "account_id": "ifrs-full_IssuedCapital",
+          "account_nm": "자본금",
+          "source_row_count": 1,
+          "prior_value_in_report": 25257690000
+        },
+        "equity_attributable_to_owners": {
+          "status": "verified",
+          "value": 87103047352,
+          "account_id": "ifrs-full_EquityAttributableToOwnersOfParent",
+          "account_nm": "지배기업의 소유주에게 귀속되는 자본",
+          "source_row_count": 1,
+          "prior_value_in_report": 87993629674
+        },
+        "noncontrolling_interests": {
+          "status": "verified",
+          "value": 1119650822,
+          "account_id": "ifrs-full_NoncontrollingInterests",
+          "account_nm": "비지배지분",
+          "source_row_count": 1,
+          "prior_value_in_report": 1041891805
+        }
+      },
+      "warnings": [
+        "세 가지 활동별 현금흐름은 DART 원본의 부호를 유지합니다.",
+        "누락 계정은 0으로 대체하지 않습니다.",
+        "회계기간 시작·종료일은 현재 결산월로 계산한 값입니다. 과거 결산기 변경은 전기금액 대조로만 간접 점검합니다."
+      ]
+    }
+  },
+  "consistency_checks": [],
+  "collected_at": "2026-11-06T01:19:10",
+  "warnings": [
+    "ECOS 업종코드는 DART 업종코드와 별도 매핑 필요",
+    "정규화 과정에서 누락 계정을 0으로 채우지 않음",
+    "회계연도 변경/비정상 회계기간은 별도 검증 필요"
+  ],
+  "company_info": {
+    "corp_code": "00229021",
+    "corp_name": "(주)인성정보",
+    "acc_mt": "12",
+    "induty_code": "62021"
+  }
+}

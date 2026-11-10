@@ -1,0 +1,121 @@
+{
+  "corp_code": "01262032",
+  "corp_name": "롯데이노베이트(주)",
+  "industry_code": null,
+  "fs_div": "CFS",
+  "report_code": "11011",
+  "currency": "KRW",
+  "amount_unit": "KRW",
+  "financials": {
+    "2021": {
+      "fiscal_year": 2021,
+      "period_start": "2021-01-01",
+      "period_end": "2021-12-31",
+      "statement": {
+        "total_assets": 750130637554,
+        "total_liabilities": 316885705578,
+        "total_equity": 433244931976,
+        "current_assets": 348644516939,
+        "current_liabilities": 210884864289,
+        "revenue": 929998711140,
+        "operating_income": 39966380370,
+        "net_income": 34658576364,
+        "operating_cash_flow": 87298119184,
+        "property_plant_equipment": 291294722703,
+        "investing_cash_flow": -123312469424,
+        "financing_cash_flow": 85401589473,
+        "issued_capital": 76981655000,
+        "equity_attributable_to_owners": 433192343544,
+        "noncontrolling_interests": 52588432
+      }
+    },
+    "2022": {
+      "fiscal_year": 2022,
+      "period_start": "2022-01-01",
+      "period_end": "2022-12-31",
+      "statement": {
+        "total_assets": 871931521611,
+        "total_liabilities": 417980301556,
+        "total_equity": 453951220055,
+        "current_assets": 366285909491,
+        "current_liabilities": 277820826605,
+        "revenue": 1047704877833,
+        "operating_income": 34251438232,
+        "net_income": 28385062388,
+        "operating_cash_flow": 14449252134,
+        "property_plant_equipment": 303465455164,
+        "investing_cash_flow": -100862367280,
+        "financing_cash_flow": 22755932658,
+        "issued_capital": 76981655000,
+        "equity_attributable_to_owners": 424894250621,
+        "noncontrolling_interests": 29056969434
+      }
+    },
+    "2023": {
+      "fiscal_year": 2023,
+      "period_start": "2023-01-01",
+      "period_end": "2023-12-31",
+      "statement": {
+        "total_assets": 944050170382,
+        "total_liabilities": 492995443728,
+        "total_equity": 451054726654,
+        "current_assets": 421382346857,
+        "current_liabilities": 351253639985,
+        "revenue": 1196722467905,
+        "operating_income": 56946199405,
+        "net_income": 40721529179,
+        "operating_cash_flow": 112902451407,
+        "property_plant_equipment": 353026474067,
+        "investing_cash_flow": -92919344593,
+        "financing_cash_flow": 14142717629,
+        "issued_capital": 76981655000,
+        "equity_attributable_to_owners": 417202621162,
+        "noncontrolling_interests": 33852105492
+      }
+    },
+    "2024": {
+      "fiscal_year": 2024,
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "statement": {
+        "total_assets": 950573044038,
+        "total_liabilities": 500757140716,
+        "total_equity": 449815903322,
+        "current_assets": 394421023574,
+        "current_liabilities": 309391536950,
+        "revenue": 1180372382864,
+        "operating_income": 25724113399,
+        "net_income": 7230555074,
+        "operating_cash_flow": 51148108388,
+        "property_plant_equipment": 378264415082,
+        "investing_cash_flow": -78443860086,
+        "financing_cash_flow": 14723097527,
+        "issued_capital": 75646835000,
+        "equity_attributable_to_owners": 419359974895,
+        "noncontrolling_interests": 30455928427
+      }
+    },
+    "2025": {
+      "fiscal_year": 2025,
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "statement": {
+        "total_assets": 922026345115,
+        "total_liabilities": 470228242718,
+        "total_equity": 451798102397,
+        "current_assets": 393991877350,
+        "current_liabilities": 333293656266,
+        "revenue": 1169825277118,
+        "operating_income": 31393431992,
+        "net_income": 4077498549,
+        "operating_cash_flow": 92440438126,
+        "property_plant_equipment": 348117009613,
+        "investing_cash_flow": -52660938290,
+        "financing_cash_flow": -33903204889,
+        "issued_capital": 75646835000,
+        "equity_attributable_to_owners": 426141012044,
+        "noncontrolling_interests": 25657090353
+      }
+    }
+  }
+}

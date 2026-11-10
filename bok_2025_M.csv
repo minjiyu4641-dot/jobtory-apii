@@ -1,0 +1,313 @@
+﻿industry_code,industry_name,fiscal_year,company_size,metric,p25,p50,p75,quantile_coverage,source_type,stat_code,unit,accounting_basis,source_url,benchmark_version
+C,C 제조업,2025,M,borrowing_dependency_ratio,5.8,34.6,58.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C,C 제조업,2025,M,debt_ratio,46.6,139.1,391.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C,C 제조업,2025,M,interest_coverage_ratio,-261.9,199.6,1795.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C,C 제조업,2025,M,net_margin,-2.6,2.3,6.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C,C 제조업,2025,M,operating_margin,-3.5,3.5,8.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C,C 제조업,2025,M,ppe_growth,-15.7,-1,2.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C,C 제조업,2025,M,revenue_growth,-22.1,-2,20.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C,C 제조업,2025,M,total_asset_growth,-5.6,2.6,16,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C10,C10 식료품,2025,M,borrowing_dependency_ratio,17.4,44.9,65.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C10,C10 식료품,2025,M,debt_ratio,76.4,190.2,578.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C10,C10 식료품,2025,M,interest_coverage_ratio,-208.2,214.8,1221.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C10,C10 식료품,2025,M,net_margin,-0.9,2.1,5.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C10,C10 식료품,2025,M,operating_margin,-2.5,3,6.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C10,C10 식료품,2025,M,ppe_growth,-10,-0.2,5.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C10,C10 식료품,2025,M,revenue_growth,-12.7,3.6,26.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C10,C10 식료품,2025,M,total_asset_growth,-3.7,4.5,21.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C11,C11 음료,2025,M,borrowing_dependency_ratio,18.4,48.3,76.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C11,C11 음료,2025,M,debt_ratio,73.8,252,12626.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C11,C11 음료,2025,M,interest_coverage_ratio,-1889.7,91.3,788.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C11,C11 음료,2025,M,net_margin,-19.9,1.5,7.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C11,C11 음료,2025,M,operating_margin,-31.4,1.4,9.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C11,C11 음료,2025,M,ppe_growth,-8.5,0,3.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C11,C11 음료,2025,M,revenue_growth,-19,-1.8,28.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C11,C11 음료,2025,M,total_asset_growth,-5.1,1.6,14.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C13,C13 섬유제품(의복 제외),2025,M,borrowing_dependency_ratio,8.1,36.5,61.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C13,C13 섬유제품(의복 제외),2025,M,debt_ratio,51.8,154.3,539.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C13,C13 섬유제품(의복 제외),2025,M,interest_coverage_ratio,-671.4,140.7,954.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C13,C13 섬유제품(의복 제외),2025,M,net_margin,-7.1,1.5,5.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C13,C13 섬유제품(의복 제외),2025,M,operating_margin,-7.7,2.6,6.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C13,C13 섬유제품(의복 제외),2025,M,ppe_growth,-22.9,-1.3,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C13,C13 섬유제품(의복 제외),2025,M,revenue_growth,-24.9,-6.1,12.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C13,C13 섬유제품(의복 제외),2025,M,total_asset_growth,-7.7,0.7,10.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C14,"C14 의복, 의복액세서리 및 모피제품",2025,M,borrowing_dependency_ratio,9.4,39,65.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C14,"C14 의복, 의복액세서리 및 모피제품",2025,M,debt_ratio,60,181.1,1025.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C14,"C14 의복, 의복액세서리 및 모피제품",2025,M,interest_coverage_ratio,-758.5,227.5,2183.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C14,"C14 의복, 의복액세서리 및 모피제품",2025,M,net_margin,-7.5,1.8,5.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C14,"C14 의복, 의복액세서리 및 모피제품",2025,M,operating_margin,-7.9,2.9,6.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C14,"C14 의복, 의복액세서리 및 모피제품",2025,M,ppe_growth,-28.9,-0.2,0.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C14,"C14 의복, 의복액세서리 및 모피제품",2025,M,revenue_growth,-27.1,-4.5,23.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C14,"C14 의복, 의복액세서리 및 모피제품",2025,M,total_asset_growth,-9,2.4,21.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C15,"C15 가죽, 가방 및 신발",2025,M,borrowing_dependency_ratio,7.6,39.2,68.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C15,"C15 가죽, 가방 및 신발",2025,M,debt_ratio,56.8,183.9,1140.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C15,"C15 가죽, 가방 및 신발",2025,M,interest_coverage_ratio,-1193.6,133,1666.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C15,"C15 가죽, 가방 및 신발",2025,M,net_margin,-12.4,1.3,5.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C15,"C15 가죽, 가방 및 신발",2025,M,operating_margin,-12.1,2.4,7.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C15,"C15 가죽, 가방 및 신발",2025,M,ppe_growth,-27.1,-0.7,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C15,"C15 가죽, 가방 및 신발",2025,M,revenue_growth,-28.7,-7.2,18.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C15,"C15 가죽, 가방 및 신발",2025,M,total_asset_growth,-10.7,1,15.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C16,C16 목재 및 나무제품(가구 제외),2025,M,borrowing_dependency_ratio,10.7,38.5,61.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C16,C16 목재 및 나무제품(가구 제외),2025,M,debt_ratio,58.9,159.4,485.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C16,C16 목재 및 나무제품(가구 제외),2025,M,interest_coverage_ratio,-260.3,167.5,1023.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C16,C16 목재 및 나무제품(가구 제외),2025,M,net_margin,-3.8,2,5.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C16,C16 목재 및 나무제품(가구 제외),2025,M,operating_margin,-4.2,3.4,8.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C16,C16 목재 및 나무제품(가구 제외),2025,M,ppe_growth,-16.4,-0.8,2.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C16,C16 목재 및 나무제품(가구 제외),2025,M,revenue_growth,-24.3,-5.1,15.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C16,C16 목재 및 나무제품(가구 제외),2025,M,total_asset_growth,-6.1,1.4,13.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C17,"C17 펄프, 종이 및 종이제품",2025,M,borrowing_dependency_ratio,8.8,37.9,57.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C17,"C17 펄프, 종이 및 종이제품",2025,M,debt_ratio,59.2,156.7,379.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C17,"C17 펄프, 종이 및 종이제품",2025,M,interest_coverage_ratio,-63.5,189.3,1151.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C17,"C17 펄프, 종이 및 종이제품",2025,M,net_margin,0,2,5.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C17,"C17 펄프, 종이 및 종이제품",2025,M,operating_margin,-0.6,3.4,6.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C17,"C17 펄프, 종이 및 종이제품",2025,M,ppe_growth,-11.8,-0.8,3.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C17,"C17 펄프, 종이 및 종이제품",2025,M,revenue_growth,-14.1,-2.5,10.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C17,"C17 펄프, 종이 및 종이제품",2025,M,total_asset_growth,-4.2,2.2,12.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C18,C18 인쇄 및 기록매체 복제업,2025,M,borrowing_dependency_ratio,0.5,27,55,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C18,C18 인쇄 및 기록매체 복제업,2025,M,debt_ratio,34.7,115.6,388.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C18,C18 인쇄 및 기록매체 복제업,2025,M,interest_coverage_ratio,-466.3,207.7,4067.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C18,C18 인쇄 및 기록매체 복제업,2025,M,net_margin,-2.9,2.1,6.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C18,C18 인쇄 및 기록매체 복제업,2025,M,operating_margin,-3.7,3.3,8.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C18,C18 인쇄 및 기록매체 복제업,2025,M,ppe_growth,-23.6,-0.7,1.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C18,C18 인쇄 및 기록매체 복제업,2025,M,revenue_growth,-15.3,-1.5,14.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C18,C18 인쇄 및 기록매체 복제업,2025,M,total_asset_growth,-5.8,1.8,13.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C19,"C19 코크스, 연탄 및 석유정제품",2025,M,borrowing_dependency_ratio,4,31.1,53,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C19,"C19 코크스, 연탄 및 석유정제품",2025,M,debt_ratio,24.6,99.3,255.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C19,"C19 코크스, 연탄 및 석유정제품",2025,M,interest_coverage_ratio,104.1,286.2,2323.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C19,"C19 코크스, 연탄 및 석유정제품",2025,M,net_margin,0.6,2.6,7.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C19,"C19 코크스, 연탄 및 석유정제품",2025,M,operating_margin,1.2,4.2,8.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C19,"C19 코크스, 연탄 및 석유정제품",2025,M,ppe_growth,-6.5,-1.4,0.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C19,"C19 코크스, 연탄 및 석유정제품",2025,M,revenue_growth,-15.9,-4.6,5.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C19,"C19 코크스, 연탄 및 석유정제품",2025,M,total_asset_growth,-3.4,1.4,7.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C20,C20 화학물질 및 화학제품(의약품 제외),2025,M,borrowing_dependency_ratio,8.8,38.4,62,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C20,C20 화학물질 및 화학제품(의약품 제외),2025,M,debt_ratio,50.1,151.8,515.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C20,C20 화학물질 및 화학제품(의약품 제외),2025,M,interest_coverage_ratio,-383.2,181.5,1632.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C20,C20 화학물질 및 화학제품(의약품 제외),2025,M,net_margin,-5.3,2.3,7.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C20,C20 화학물질 및 화학제품(의약품 제외),2025,M,operating_margin,-6.3,3.5,9.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C20,C20 화학물질 및 화학제품(의약품 제외),2025,M,ppe_growth,-10.1,-0.4,2.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C20,C20 화학물질 및 화학제품(의약품 제외),2025,M,revenue_growth,-18.2,0,23.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C20,C20 화학물질 및 화학제품(의약품 제외),2025,M,total_asset_growth,-5,2.9,18,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C21,C21 의료용 물질 및 의약품,2025,M,borrowing_dependency_ratio,9.9,35.1,59.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C21,C21 의료용 물질 및 의약품,2025,M,debt_ratio,43.5,131.3,498.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C21,C21 의료용 물질 및 의약품,2025,M,interest_coverage_ratio,-828.3,118.5,1149.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C21,C21 의료용 물질 및 의약품,2025,M,net_margin,-32.3,1.8,8.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C21,C21 의료용 물질 및 의약품,2025,M,operating_margin,-32.6,2.5,9.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C21,C21 의료용 물질 및 의약품,2025,M,ppe_growth,-9.8,-0.5,6.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C21,C21 의료용 물질 및 의약품,2025,M,revenue_growth,-16,3.6,26.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C21,C21 의료용 물질 및 의약품,2025,M,total_asset_growth,-7,2.8,15.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C22,C22 고무 및 플라스틱제품,2025,M,borrowing_dependency_ratio,6.9,36.3,57.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C22,C22 고무 및 플라스틱제품,2025,M,debt_ratio,47.4,140.4,357.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C22,C22 고무 및 플라스틱제품,2025,M,interest_coverage_ratio,-162.9,186.4,1381.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C22,C22 고무 및 플라스틱제품,2025,M,net_margin,-1.2,2.2,6.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C22,C22 고무 및 플라스틱제품,2025,M,operating_margin,-1.9,3.6,8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C22,C22 고무 및 플라스틱제품,2025,M,ppe_growth,-11.8,-1.1,3.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C22,C22 고무 및 플라스틱제품,2025,M,revenue_growth,-19.5,-2.8,14.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C22,C22 고무 및 플라스틱제품,2025,M,total_asset_growth,-4.5,2.4,13.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C23,C23 비금속 광물제품,2025,M,borrowing_dependency_ratio,5.5,29.6,53,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C23,C23 비금속 광물제품,2025,M,debt_ratio,36.1,107.1,298.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C23,C23 비금속 광물제품,2025,M,interest_coverage_ratio,-198.6,191.3,1637.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C23,C23 비금속 광물제품,2025,M,net_margin,-2.5,2.3,6.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C23,C23 비금속 광물제품,2025,M,operating_margin,-2.9,3.6,8.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C23,C23 비금속 광물제품,2025,M,ppe_growth,-9.1,-1.1,2.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C23,C23 비금속 광물제품,2025,M,revenue_growth,-27.8,-8.6,13,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C23,C23 비금속 광물제품,2025,M,total_asset_growth,-5.5,1.4,10.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C24,C24 1차 금속,2025,M,borrowing_dependency_ratio,10.2,36.7,56.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C24,C24 1차 금속,2025,M,debt_ratio,55.1,141.9,306.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C24,C24 1차 금속,2025,M,interest_coverage_ratio,-13.5,185.9,929.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C24,C24 1차 금속,2025,M,net_margin,0,1.8,5.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C24,C24 1차 금속,2025,M,operating_margin,-0.2,3.1,7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C24,C24 1차 금속,2025,M,ppe_growth,-9.5,-1.3,2.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C24,C24 1차 금속,2025,M,revenue_growth,-20.6,-3.9,13.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C24,C24 1차 금속,2025,M,total_asset_growth,-4.3,2.2,12.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C25,C25 금속가공제품(기계 및 가구 제외),2025,M,borrowing_dependency_ratio,5,32.7,56,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C25,C25 금속가공제품(기계 및 가구 제외),2025,M,debt_ratio,43.6,125,308.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C25,C25 금속가공제품(기계 및 가구 제외),2025,M,interest_coverage_ratio,-66.3,211.7,1756.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C25,C25 금속가공제품(기계 및 가구 제외),2025,M,net_margin,-0.2,2.6,6.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C25,C25 금속가공제품(기계 및 가구 제외),2025,M,operating_margin,-0.9,4,9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C25,C25 금속가공제품(기계 및 가구 제외),2025,M,ppe_growth,-17.6,-1.4,2.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C25,C25 금속가공제품(기계 및 가구 제외),2025,M,revenue_growth,-25.1,-5.5,15.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C25,C25 금속가공제품(기계 및 가구 제외),2025,M,total_asset_growth,-5.3,2.2,14.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C26,"C26 전자부품, 컴퓨터, 영상, 음향 및 통신장비",2025,M,borrowing_dependency_ratio,1.2,29,54.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C26,"C26 전자부품, 컴퓨터, 영상, 음향 및 통신장비",2025,M,debt_ratio,36,118.7,341.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C26,"C26 전자부품, 컴퓨터, 영상, 음향 및 통신장비",2025,M,interest_coverage_ratio,-565,186.8,2410.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C26,"C26 전자부품, 컴퓨터, 영상, 음향 및 통신장비",2025,M,net_margin,-5.7,2.1,7.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C26,"C26 전자부품, 컴퓨터, 영상, 음향 및 통신장비",2025,M,operating_margin,-6.9,3.1,8.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C26,"C26 전자부품, 컴퓨터, 영상, 음향 및 통신장비",2025,M,ppe_growth,-20.7,-1.2,0.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C26,"C26 전자부품, 컴퓨터, 영상, 음향 및 통신장비",2025,M,revenue_growth,-24.5,-0.8,25.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C26,"C26 전자부품, 컴퓨터, 영상, 음향 및 통신장비",2025,M,total_asset_growth,-7.3,2.3,16.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C27,"C27 의료, 정밀, 광학기기 및 시계",2025,M,borrowing_dependency_ratio,2.9,31.5,57.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C27,"C27 의료, 정밀, 광학기기 및 시계",2025,M,debt_ratio,35.5,115.6,376.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C27,"C27 의료, 정밀, 광학기기 및 시계",2025,M,interest_coverage_ratio,-509.2,191.6,2344.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C27,"C27 의료, 정밀, 광학기기 및 시계",2025,M,net_margin,-7,2.8,8.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C27,"C27 의료, 정밀, 광학기기 및 시계",2025,M,operating_margin,-9.1,3.7,10.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C27,"C27 의료, 정밀, 광학기기 및 시계",2025,M,ppe_growth,-16.4,-0.9,2.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C27,"C27 의료, 정밀, 광학기기 및 시계",2025,M,revenue_growth,-23.8,0.2,28.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C27,"C27 의료, 정밀, 광학기기 및 시계",2025,M,total_asset_growth,-5.8,3.1,17.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C28,C28 전기장비,2025,M,borrowing_dependency_ratio,3.3,30.5,55.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C28,C28 전기장비,2025,M,debt_ratio,38.6,119.9,350.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C28,C28 전기장비,2025,M,interest_coverage_ratio,-286.8,222.3,2848.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C28,C28 전기장비,2025,M,net_margin,-3,2.6,7.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C28,C28 전기장비,2025,M,operating_margin,-4.4,3.8,9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C28,C28 전기장비,2025,M,ppe_growth,-18.7,-1,1.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C28,C28 전기장비,2025,M,revenue_growth,-26.9,-3.2,25,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C28,C28 전기장비,2025,M,total_asset_growth,-6.4,3,17.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C29,C29 기타 기계 및 장비,2025,M,borrowing_dependency_ratio,3.6,31,55.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C29,C29 기타 기계 및 장비,2025,M,debt_ratio,39.2,118.2,304.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C29,C29 기타 기계 및 장비,2025,M,interest_coverage_ratio,-133.6,223.9,2259.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C29,C29 기타 기계 및 장비,2025,M,net_margin,-0.9,3,8.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C29,C29 기타 기계 및 장비,2025,M,operating_margin,-2.2,4.5,10,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C29,C29 기타 기계 및 장비,2025,M,ppe_growth,-16.9,-1.4,2.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C29,C29 기타 기계 및 장비,2025,M,revenue_growth,-24.9,-2.3,24,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C29,C29 기타 기계 및 장비,2025,M,total_asset_growth,-5.4,2.6,15.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C30,C30 자동차 및 트레일러,2025,M,borrowing_dependency_ratio,6.9,37.4,58.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C30,C30 자동차 및 트레일러,2025,M,debt_ratio,62,167.9,392.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C30,C30 자동차 및 트레일러,2025,M,interest_coverage_ratio,11.3,211.2,1501.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C30,C30 자동차 및 트레일러,2025,M,net_margin,0.1,2.1,5.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C30,C30 자동차 및 트레일러,2025,M,operating_margin,0.1,3.5,7.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C30,C30 자동차 및 트레일러,2025,M,ppe_growth,-9.3,-0.7,4.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C30,C30 자동차 및 트레일러,2025,M,revenue_growth,-12.8,1.1,18,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C30,C30 자동차 및 트레일러,2025,M,total_asset_growth,-3.7,3.6,16,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C31,C31 기타 운송장비,2025,M,borrowing_dependency_ratio,0.7,31.3,55,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C31,C31 기타 운송장비,2025,M,debt_ratio,49.2,141.5,393,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C31,C31 기타 운송장비,2025,M,interest_coverage_ratio,-66.6,406.1,7284.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C31,C31 기타 운송장비,2025,M,net_margin,0.1,3.2,7.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C31,C31 기타 운송장비,2025,M,operating_margin,-0.4,3.9,8.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C31,C31 기타 운송장비,2025,M,ppe_growth,-21.6,0,6.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C31,C31 기타 운송장비,2025,M,revenue_growth,-23,0.3,29.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C31,C31 기타 운송장비,2025,M,total_asset_growth,-6.4,5,25.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C32,C32 가구,2025,M,borrowing_dependency_ratio,10.4,39.9,62.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C32,C32 가구,2025,M,debt_ratio,73.8,194.7,671.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C32,C32 가구,2025,M,interest_coverage_ratio,-529.1,157.3,1070.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C32,C32 가구,2025,M,net_margin,-6.2,1.7,4.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C32,C32 가구,2025,M,operating_margin,-6.5,2.9,7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C32,C32 가구,2025,M,ppe_growth,-21.1,-0.6,1.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C32,C32 가구,2025,M,revenue_growth,-29.4,-7.7,14.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C32,C32 가구,2025,M,total_asset_growth,-7.6,2.1,16.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C33,C33 기타 제품 제조업,2025,M,borrowing_dependency_ratio,4.8,35.8,64,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C33,C33 기타 제품 제조업,2025,M,debt_ratio,46,152.2,695.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C33,C33 기타 제품 제조업,2025,M,interest_coverage_ratio,-955.7,168,1970.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C33,C33 기타 제품 제조업,2025,M,net_margin,-8.2,1.9,6.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C33,C33 기타 제품 제조업,2025,M,operating_margin,-9.5,2.8,8.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C33,C33 기타 제품 제조업,2025,M,ppe_growth,-24.4,-0.4,0.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C33,C33 기타 제품 제조업,2025,M,revenue_growth,-26.4,-3.1,23.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C33,C33 기타 제품 제조업,2025,M,total_asset_growth,-7.8,2.1,16.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C34,C34 산업용기계 및 장비수리업,2025,M,borrowing_dependency_ratio,0,7.8,47.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C34,C34 산업용기계 및 장비수리업,2025,M,debt_ratio,21.3,71.9,304.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C34,C34 산업용기계 및 장비수리업,2025,M,interest_coverage_ratio,-2178.1,722.8,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C34,C34 산업용기계 및 장비수리업,2025,M,net_margin,-4.3,3.7,10.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C34,C34 산업용기계 및 장비수리업,2025,M,operating_margin,-4.5,4.1,11.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C34,C34 산업용기계 및 장비수리업,2025,M,ppe_growth,-29.3,0,2.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C34,C34 산업용기계 및 장비수리업,2025,M,revenue_growth,-15.9,5.4,35.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+C34,C34 산업용기계 및 장비수리업,2025,M,total_asset_growth,-7.4,5.5,30.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+D35,"D35 전기, 가스, 증기 및 공기조절 공급업",2025,M,borrowing_dependency_ratio,31.7,74.2,90.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+D35,"D35 전기, 가스, 증기 및 공기조절 공급업",2025,M,debt_ratio,110.3,469.1,2138.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+D35,"D35 전기, 가스, 증기 및 공기조절 공급업",2025,M,interest_coverage_ratio,60.7,133.1,431.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+D35,"D35 전기, 가스, 증기 및 공기조절 공급업",2025,M,net_margin,-3.8,7.4,24.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+D35,"D35 전기, 가스, 증기 및 공기조절 공급업",2025,M,operating_margin,7.2,28.4,43,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+D35,"D35 전기, 가스, 증기 및 공기조절 공급업",2025,M,ppe_growth,-9.5,-6,-2.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+D35,"D35 전기, 가스, 증기 및 공기조절 공급업",2025,M,revenue_growth,-5.5,2.1,8.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+D35,"D35 전기, 가스, 증기 및 공기조절 공급업",2025,M,total_asset_growth,-8,-4.3,0.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+E,"E37-39 하수 · 폐기물 처리, 원료재생업",2025,M,borrowing_dependency_ratio,0,19.7,49.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+E,"E37-39 하수 · 폐기물 처리, 원료재생업",2025,M,debt_ratio,22.2,79.1,269.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+E,"E37-39 하수 · 폐기물 처리, 원료재생업",2025,M,interest_coverage_ratio,-108.2,259.5,4916.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+E,"E37-39 하수 · 폐기물 처리, 원료재생업",2025,M,net_margin,-0.8,2.7,8.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+E,"E37-39 하수 · 폐기물 처리, 원료재생업",2025,M,operating_margin,-1.2,3.7,9.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+E,"E37-39 하수 · 폐기물 처리, 원료재생업",2025,M,ppe_growth,-19.6,-1.1,9.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+E,"E37-39 하수 · 폐기물 처리, 원료재생업",2025,M,revenue_growth,-14,0.4,14.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+E,"E37-39 하수 · 폐기물 처리, 원료재생업",2025,M,total_asset_growth,-4.5,2.9,13.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+F,F 건설업,2025,M,borrowing_dependency_ratio,0,7.2,20.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+F,F 건설업,2025,M,debt_ratio,12.4,29.2,74.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+F,F 건설업,2025,M,interest_coverage_ratio,-1357.4,649.5,19056.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+F,F 건설업,2025,M,net_margin,-3,2.5,7.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+F,F 건설업,2025,M,operating_margin,-4.8,2.4,7.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+F,F 건설업,2025,M,ppe_growth,-34.3,-2.6,0.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+F,F 건설업,2025,M,revenue_growth,-38.3,-4.7,42.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+F,F 건설업,2025,M,total_asset_growth,-7.7,2.5,16,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+G,G 도매 및 소매업,2025,M,borrowing_dependency_ratio,0,19.4,53.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+G,G 도매 및 소매업,2025,M,debt_ratio,33.4,130.8,696.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+G,G 도매 및 소매업,2025,M,interest_coverage_ratio,-2136.3,292.2,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+G,G 도매 및 소매업,2025,M,net_margin,-4.1,1.3,5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+G,G 도매 및 소매업,2025,M,operating_margin,-4.9,1.7,5.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+G,G 도매 및 소매업,2025,M,ppe_growth,-27.7,0,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+G,G 도매 및 소매업,2025,M,revenue_growth,-23.1,-1.6,24.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+G,G 도매 및 소매업,2025,M,total_asset_growth,-9.5,2.4,20.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+H,H 운수 및 창고업,2025,M,borrowing_dependency_ratio,0,8.8,41,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+H,H 운수 및 창고업,2025,M,debt_ratio,23,94.2,393.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+H,H 운수 및 창고업,2025,M,interest_coverage_ratio,-1842.7,229.2,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+H,H 운수 및 창고업,2025,M,net_margin,-1.8,1.6,6.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+H,H 운수 및 창고업,2025,M,operating_margin,-3.7,1.5,6.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+H,H 운수 및 창고업,2025,M,ppe_growth,-25.8,0,1.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+H,H 운수 및 창고업,2025,M,revenue_growth,-13,0.1,13.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+H,H 운수 및 창고업,2025,M,total_asset_growth,-6.4,2.7,16.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+I,I 숙박 및 음식점업,2025,M,borrowing_dependency_ratio,1.6,45.9,89.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+I,I 숙박 및 음식점업,2025,M,debt_ratio,80.7,511.1,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+I,I 숙박 및 음식점업,2025,M,interest_coverage_ratio,,104.6,22308.3,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+I,I 숙박 및 음식점업,2025,M,net_margin,-11.9,0.9,6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+I,I 숙박 및 음식점업,2025,M,operating_margin,-12.3,1.3,8.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+I,I 숙박 및 음식점업,2025,M,ppe_growth,-31,-0.4,0.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+I,I 숙박 및 음식점업,2025,M,revenue_growth,-13.4,1.6,26.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+I,I 숙박 및 음식점업,2025,M,total_asset_growth,-9.6,0.6,16.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+J,J 정보통신업,2025,M,borrowing_dependency_ratio,0,24.7,72.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+J,J 정보통신업,2025,M,debt_ratio,28.9,159.7,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+J,J 정보통신업,2025,M,interest_coverage_ratio,,77.2,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+J,J 정보통신업,2025,M,net_margin,-26.6,0.9,9.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+J,J 정보통신업,2025,M,operating_margin,-31.4,0.6,9.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+J,J 정보통신업,2025,M,ppe_growth,-29.5,0,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+J,J 정보통신업,2025,M,revenue_growth,-28.8,0.4,42.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+J,J 정보통신업,2025,M,total_asset_growth,-13.8,2.4,28.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+L,L 부동산업,2025,M,borrowing_dependency_ratio,3.6,53.4,85.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+L,L 부동산업,2025,M,debt_ratio,74.4,548.5,28250.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+L,L 부동산업,2025,M,interest_coverage_ratio,-522.5,87,533.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+L,L 부동산업,2025,M,net_margin,-42.1,1.7,20.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+L,L 부동산업,2025,M,operating_margin,-22.9,14.2,50.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+L,L 부동산업,2025,M,ppe_growth,-1.9,0,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+L,L 부동산업,2025,M,revenue_growth,-16.9,0,22.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+L,L 부동산업,2025,M,total_asset_growth,-3.6,-0.1,2.7,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+M,"M 전문, 과학 및 기술 서비스업",2025,M,borrowing_dependency_ratio,0,11.9,60.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+M,"M 전문, 과학 및 기술 서비스업",2025,M,debt_ratio,21.3,104.3,6152.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+M,"M 전문, 과학 및 기술 서비스업",2025,M,interest_coverage_ratio,,195.4,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+M,"M 전문, 과학 및 기술 서비스업",2025,M,net_margin,-17.1,2,13,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+M,"M 전문, 과학 및 기술 서비스업",2025,M,operating_margin,-19.3,2,13.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+M,"M 전문, 과학 및 기술 서비스업",2025,M,ppe_growth,-29.3,0,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+M,"M 전문, 과학 및 기술 서비스업",2025,M,revenue_growth,-28,0.4,39.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+M,"M 전문, 과학 및 기술 서비스업",2025,M,total_asset_growth,-11.7,2.7,27.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+N,N 사업시설 관리 및 사업지원 및 임대 서비스업,2025,M,borrowing_dependency_ratio,0,10.3,55,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+N,N 사업시설 관리 및 사업지원 및 임대 서비스업,2025,M,debt_ratio,31.3,146.2,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+N,N 사업시설 관리 및 사업지원 및 임대 서비스업,2025,M,interest_coverage_ratio,,149.8,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+N,N 사업시설 관리 및 사업지원 및 임대 서비스업,2025,M,net_margin,-10.4,1.1,7.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+N,N 사업시설 관리 및 사업지원 및 임대 서비스업,2025,M,operating_margin,-13.2,0.8,7.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+N,N 사업시설 관리 및 사업지원 및 임대 서비스업,2025,M,ppe_growth,-26.7,0,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+N,N 사업시설 관리 및 사업지원 및 임대 서비스업,2025,M,revenue_growth,-23.2,0.9,33.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+N,N 사업시설 관리 및 사업지원 및 임대 서비스업,2025,M,total_asset_growth,-12.1,2.3,24.4,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+P,P 교육 서비스업,2025,M,borrowing_dependency_ratio,0,23,80.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+P,P 교육 서비스업,2025,M,debt_ratio,33.6,211,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+P,P 교육 서비스업,2025,M,interest_coverage_ratio,,83.8,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+P,P 교육 서비스업,2025,M,net_margin,-14.5,1,9.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+P,P 교육 서비스업,2025,M,operating_margin,-19.6,0.5,9.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+P,P 교육 서비스업,2025,M,ppe_growth,-31.5,0,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+P,P 교육 서비스업,2025,M,revenue_growth,-19.2,0.7,30.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+P,P 교육 서비스업,2025,M,total_asset_growth,-12.8,1.7,25.6,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+R,"R 예술, 스포츠 및 여가관련 서비스업",2025,M,borrowing_dependency_ratio,0,44.9,95.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+R,"R 예술, 스포츠 및 여가관련 서비스업",2025,M,debt_ratio,74.6,643.2,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+R,"R 예술, 스포츠 및 여가관련 서비스업",2025,M,interest_coverage_ratio,,-97.8,2989.3,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+R,"R 예술, 스포츠 및 여가관련 서비스업",2025,M,net_margin,-27.6,0,7.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+R,"R 예술, 스포츠 및 여가관련 서비스업",2025,M,operating_margin,-34.4,-1.3,10,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+R,"R 예술, 스포츠 및 여가관련 서비스업",2025,M,ppe_growth,-24.7,0,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+R,"R 예술, 스포츠 및 여가관련 서비스업",2025,M,revenue_growth,-23,-3.3,31.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+R,"R 예술, 스포츠 및 여가관련 서비스업",2025,M,total_asset_growth,-13.2,0.1,18.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ00,전산업,2025,M,borrowing_dependency_ratio,0,20.6,57.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ00,전산업,2025,M,debt_ratio,27.3,116.6,728.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ00,전산업,2025,M,interest_coverage_ratio,-2070.2,192.9,26798.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ00,전산업,2025,M,net_margin,-7.3,1.8,7.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ00,전산업,2025,M,operating_margin,-8.1,2.4,9.1,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ00,전산업,2025,M,ppe_growth,-24.5,0,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ00,전산업,2025,M,revenue_growth,-24.1,-0.4,27.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ00,전산업,2025,M,total_asset_growth,-8,1.6,17.3,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ80,비제조업,2025,M,borrowing_dependency_ratio,0,16.2,57.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ80,비제조업,2025,M,debt_ratio,23.8,107.3,1006.2,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ80,비제조업,2025,M,interest_coverage_ratio,-4778,188.9,,median_only,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ80,비제조업,2025,M,net_margin,-8.8,1.6,7.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ80,비제조업,2025,M,operating_margin,-9.6,2,9.5,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ80,비제조업,2025,M,ppe_growth,-26.3,0,0,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ80,비제조업,2025,M,revenue_growth,-24.8,0,29.9,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M
+ZZZ80,비제조업,2025,M,total_asset_growth,-8.8,1.3,17.8,full_quantile,BOK_ECOS,501Y086,%,BOK_ENTERPRISE_SURVEY,https://ecos.bok.or.kr/,BOK_501Y086_2025_M

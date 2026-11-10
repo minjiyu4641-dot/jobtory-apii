@@ -1,0 +1,121 @@
+{
+  "corp_code": "01135640",
+  "corp_name": "이삭엔지니어링(주)",
+  "industry_code": null,
+  "fs_div": "CFS",
+  "report_code": "11011",
+  "currency": "KRW",
+  "amount_unit": "KRW",
+  "financials": {
+    "2021": {
+      "fiscal_year": 2021,
+      "period_start": "2021-01-01",
+      "period_end": "2021-12-31",
+      "statement": {
+        "total_assets": 55869105847,
+        "total_liabilities": 10933064754,
+        "total_equity": 44936041093,
+        "current_assets": 36279750552,
+        "current_liabilities": 10772707716,
+        "revenue": 43047122495,
+        "operating_income": -3386946324,
+        "net_income": -4583022756,
+        "operating_cash_flow": -7712882259,
+        "property_plant_equipment": 8114272281,
+        "investing_cash_flow": -9137585200,
+        "financing_cash_flow": 19448204041,
+        "issued_capital": 4144260000,
+        "equity_attributable_to_owners": 44936041093,
+        "noncontrolling_interests": null
+      }
+    },
+    "2022": {
+      "fiscal_year": 2022,
+      "period_start": "2022-01-01",
+      "period_end": "2022-12-31",
+      "statement": {
+        "total_assets": 69963916670,
+        "total_liabilities": 22073299175,
+        "total_equity": 47890617495,
+        "current_assets": 51561748481,
+        "current_liabilities": 21914635485,
+        "revenue": 59678363357,
+        "operating_income": 2359014965,
+        "net_income": 2072307223,
+        "operating_cash_flow": -13860812126,
+        "property_plant_equipment": 11027020904,
+        "investing_cash_flow": 4191212942,
+        "financing_cash_flow": 3813376245,
+        "issued_capital": 4144260000,
+        "equity_attributable_to_owners": 47890617495,
+        "noncontrolling_interests": 0
+      }
+    },
+    "2023": {
+      "fiscal_year": 2023,
+      "period_start": "2023-01-01",
+      "period_end": "2023-12-31",
+      "statement": {
+        "total_assets": 75238336657,
+        "total_liabilities": 27217241788,
+        "total_equity": 48021094869,
+        "current_assets": 55305602655,
+        "current_liabilities": 26978880200,
+        "revenue": 100515237200,
+        "operating_income": 134144976,
+        "net_income": -462680769,
+        "operating_cash_flow": 1837711888,
+        "property_plant_equipment": 11531157834,
+        "investing_cash_flow": -2892386490,
+        "financing_cash_flow": 4638888612,
+        "issued_capital": 4144260000,
+        "equity_attributable_to_owners": 48021094869,
+        "noncontrolling_interests": 0
+      }
+    },
+    "2024": {
+      "fiscal_year": 2024,
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "statement": {
+        "total_assets": 68176967986,
+        "total_liabilities": 27363804809,
+        "total_equity": 40813163177,
+        "current_assets": 52279408926,
+        "current_liabilities": 27138312783,
+        "revenue": 68450229130,
+        "operating_income": -4543528819,
+        "net_income": -7020949893,
+        "operating_cash_flow": 8173892002,
+        "property_plant_equipment": 10720393377,
+        "investing_cash_flow": -983767173,
+        "financing_cash_flow": -4890971727,
+        "issued_capital": 4144260000,
+        "equity_attributable_to_owners": 40578855607,
+        "noncontrolling_interests": 234307570
+      }
+    },
+    "2025": {
+      "fiscal_year": 2025,
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "statement": {
+        "total_assets": 77574313721,
+        "total_liabilities": 42961154823,
+        "total_equity": 34613158898,
+        "current_assets": 55473265347,
+        "current_liabilities": 33512851672,
+        "revenue": 78986196809,
+        "operating_income": -7182250667,
+        "net_income": -8907834071,
+        "operating_cash_flow": -3720142057,
+        "property_plant_equipment": 9611004271,
+        "investing_cash_flow": -10096914337,
+        "financing_cash_flow": 19293979635,
+        "issued_capital": 4144260000,
+        "equity_attributable_to_owners": 34405080003,
+        "noncontrolling_interests": 208078895
+      }
+    }
+  }
+}

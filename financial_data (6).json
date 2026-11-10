@@ -1,0 +1,121 @@
+{
+  "corp_code": "00352499",
+  "corp_name": "(주)링네트",
+  "industry_code": null,
+  "fs_div": "CFS",
+  "report_code": "11011",
+  "currency": "KRW",
+  "amount_unit": "KRW",
+  "financials": {
+    "2021": {
+      "fiscal_year": 2021,
+      "period_start": "2021-01-01",
+      "period_end": "2021-12-31",
+      "statement": {
+        "total_assets": 130747239228,
+        "total_liabilities": 56175193279,
+        "total_equity": 74572045949,
+        "current_assets": 107675786595,
+        "current_liabilities": 56074132122,
+        "revenue": 214783844830,
+        "operating_income": 10622226143,
+        "net_income": 8669445593,
+        "operating_cash_flow": -23904112841,
+        "property_plant_equipment": 7707409710,
+        "investing_cash_flow": -899810464,
+        "financing_cash_flow": -6488468831,
+        "issued_capital": 7678439000,
+        "equity_attributable_to_owners": 74572045949,
+        "noncontrolling_interests": 0
+      }
+    },
+    "2022": {
+      "fiscal_year": 2022,
+      "period_start": "2022-01-01",
+      "period_end": "2022-12-31",
+      "statement": {
+        "total_assets": 160910717842,
+        "total_liabilities": 77489174594,
+        "total_equity": 83421543248,
+        "current_assets": 139122801326,
+        "current_liabilities": 77401235311,
+        "revenue": 204003748249,
+        "operating_income": 10877118076,
+        "net_income": 10055707915,
+        "operating_cash_flow": -22487558599,
+        "property_plant_equipment": 7639191072,
+        "investing_cash_flow": 13878488873,
+        "financing_cash_flow": 9323505390,
+        "issued_capital": 7678439000,
+        "equity_attributable_to_owners": 83421543248,
+        "noncontrolling_interests": null
+      }
+    },
+    "2023": {
+      "fiscal_year": 2023,
+      "period_start": "2023-01-01",
+      "period_end": "2023-12-31",
+      "statement": {
+        "total_assets": 151943392154,
+        "total_liabilities": 55823929320,
+        "total_equity": 96119462834,
+        "current_assets": 116421501129,
+        "current_liabilities": 55737666667,
+        "revenue": 217699382445,
+        "operating_income": 16347719605,
+        "net_income": 12788780412,
+        "operating_cash_flow": 50640490493,
+        "property_plant_equipment": 7528225829,
+        "investing_cash_flow": -27060477365,
+        "financing_cash_flow": -13407339153,
+        "issued_capital": 7678439000,
+        "equity_attributable_to_owners": 96119462834,
+        "noncontrolling_interests": null
+      }
+    },
+    "2024": {
+      "fiscal_year": 2024,
+      "period_start": "2024-01-01",
+      "period_end": "2024-12-31",
+      "statement": {
+        "total_assets": 147744214218,
+        "total_liabilities": 40921908386,
+        "total_equity": 106822305832,
+        "current_assets": 107037712480,
+        "current_liabilities": 40841908386,
+        "revenue": 163904772518,
+        "operating_income": 13690916486,
+        "net_income": 12854326549,
+        "operating_cash_flow": 7181646580,
+        "property_plant_equipment": 7276189682,
+        "investing_cash_flow": -5125049512,
+        "financing_cash_flow": -942063350,
+        "issued_capital": 9535067000,
+        "equity_attributable_to_owners": 106822305832,
+        "noncontrolling_interests": null
+      }
+    },
+    "2025": {
+      "fiscal_year": 2025,
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "statement": {
+        "total_assets": 168180301710,
+        "total_liabilities": 49151351778,
+        "total_equity": 119028949932,
+        "current_assets": 116727488617,
+        "current_liabilities": 45708069478,
+        "revenue": 183074373611,
+        "operating_income": 14313163865,
+        "net_income": 10902152980,
+        "operating_cash_flow": -9339572217,
+        "property_plant_equipment": 7508509214,
+        "investing_cash_flow": -4198712414,
+        "financing_cash_flow": 9362546872,
+        "issued_capital": 11145572000,
+        "equity_attributable_to_owners": 119028949932,
+        "noncontrolling_interests": null
+      }
+    }
+  }
+}
